@@ -1,4 +1,4 @@
-﻿
+
 <img src="https://s.cystack.net/resource/home/content/19111438/hackerrank-1024x585.png" alt="Hackerrank Logo">
 
 This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges in Kotlin</b>.
@@ -14,8 +14,14 @@ Coding environment:
 
 # 1 Week Preparation Kit
 
-| Day |                                     Challenge                                                                                        |                                                                                       Solution                                                                                        |  
-|:---:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|  
-|  1  | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/)                                            | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt)                                               |  
-|  1  | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum)                                         | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt)                                                |  
-|  1  | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion)                                          | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt)                                            |
+| Day  |                          Challenge                           |                           Solution                           |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/) | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt) |
+|  1   | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum) | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt) |
+|  1   | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion) | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt) |
+|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) |                                                              |
+|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) |                                                              |
+|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) |                                                              |
+|      |                                                              |                                                              |
+|      |                                                              |                                                              |
+|      |                                                              |                                                              |
