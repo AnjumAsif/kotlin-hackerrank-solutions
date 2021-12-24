@@ -1,7 +1,7 @@
 
 <img src="https://s.cystack.net/resource/home/content/19111438/hackerrank-1024x585.png" alt="Hackerrank Logo">
 
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges in Kotlin</b>.
+This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges in Kotlin</b>. I hope this could be a useful learing resource for anyone who loves Kotlin programming.
 
 hackerrank solutions kotlin GitHub | hackerrank tutorial in kotlin | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in kotlin | hackerrank algorithm solution in kotlin | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in kotlin | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in kotlin | problem solving with kotlin | kotlinAID | hackerank solution | manhnvacrux
 
