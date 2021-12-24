@@ -12,7 +12,7 @@ Coding environment:
 - IntelliJ IDEA 2021.3
 - Kotlin 1.6.10
 
-# 1 WEEK PREPRATION KIT
+# 1 WEEK PREPARATION KIT
 
 | Day  |                          Challenge                           |                           Solution                           |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
