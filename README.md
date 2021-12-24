@@ -37,9 +37,9 @@ Interactive Learning
 
  Kotlin Books
 
-1. [Kotlin In Action](https://www.manning.com/books/kotlin-in-action)
-2. [Kotlin Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630)
-3. [The Joy Of Kotlin](https://www.manning.com/books/the-joy-of-kotlin)
+1. [Kotlin In Action](https://www.manning.com/books/kotlin-in-action): Best Kotlin book for serious learner and experienced Java developers.
+2. [Kotlin Programming - The Big Nerd Ranch Guide](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630): Thorough and comprehensive for beginner to intermediate developers.
+3. [The Joy Of Kotlin](https://www.manning.com/books/the-joy-of-kotlin): Written for intermediate Java or Kotlin developers.
 
 Data Structures and Algorithms
 
