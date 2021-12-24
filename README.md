@@ -27,7 +27,7 @@ Coding environment:
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
-[Kotlin Docs](https://kotlinlang.org/docs/home.html): You can found everything about Kotlin here.
+[Kotlin Docs](https://kotlinlang.org/docs/home.html): You can find everything about Kotlin here.
 
 Interactive Learning
 
