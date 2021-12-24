@@ -1,18 +1,18 @@
-
 <img src="https://s.cystack.net/resource/home/content/19111438/hackerrank-1024x585.png" alt="Hackerrank Logo">
 
 This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges in Kotlin</b>. I hope this could be a useful learing resource for anyone who loves Kotlin programming.
 
 hackerrank solutions kotlin GitHub | hackerrank tutorial in kotlin | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in kotlin | hackerrank algorithm solution in kotlin | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in kotlin | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in kotlin | problem solving with kotlin | kotlinAID | hackerank solution | manhnvacrux
 
-* [1 Week Preparation Kit](#1-Week-Preparation-Kit)
+* [1 Week Preparation Kit](#1-WEEK-PREPARATION-KIT)
+* [My Top Learing Kotlin Resources](#MY-TOP-KOTLIN-LEARNING-RESOURCES)
 
 Coding environment:
 - MacOS Monterey 12.0.1
 - IntelliJ IDEA 2021.3
 - Kotlin 1.6.10
 
-# 1 Week Preparation Kit
+# 1 WEEK PREPRATION KIT
 
 | Day  |                          Challenge                           |                           Solution                           |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -22,6 +22,26 @@ Coding environment:
 |  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) | [LonelyInteger.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/LonelyInteger.kt) |
 |  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |
 |  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
+
+# MY TOP LEARNING KOTLIN RESOURCES
+
+[Kotlin Docs](https://kotlinlang.org/docs/home.html): You can found everything about Kotlin here.
+
+Interactive Learning
+
+1. [Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
+2. [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
+3. [Track: Kotlin Basics]( https://hyperskill.org/tracks/18)
+
+ Kotlin Books
+
+1. [Kotlin In Action](https://www.manning.com/books/kotlin-in-action)
+2. [Kotlin Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630)
+3. [The Joy Of Kotlin](https://www.manning.com/books/the-joy-of-kotlin)
+
+Data Structures an Algorithms
+
+1. [Data Structures & Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin)
+2. [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.in/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7/)
+
+NOTE: All above shared learning resources are best of my knowledge as I have personally read all.
