@@ -19,9 +19,9 @@ Coding environment:
 |  1   | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/) | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt) |
 |  1   | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum) | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt) |
 |  1   | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion) | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt) |
-|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) |                                                              |
-|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) |                                                              |
-|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) |                                                              |
+|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) | [LonelyInteger.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/LonelyInteger.kt) |
+|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/Diagonal%20Difference.kt) |
+|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
