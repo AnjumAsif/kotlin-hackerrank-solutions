@@ -23,7 +23,7 @@ Coding environment:
 |  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |
 |  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |
 
-# MY TOP LEARNING KOTLIN RESOURCES
+# MY TOP KOTLIN LEARNING RESOURCES
 
 [Kotlin Docs](https://kotlinlang.org/docs/home.html): You can found everything about Kotlin here.
 
