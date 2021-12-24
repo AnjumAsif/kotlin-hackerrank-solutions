@@ -1,16 +1,10 @@
 <img src="https://s.cystack.net/resource/home/content/19111438/hackerrank-1024x585.png" alt="Hackerrank Logo">
 
-
-
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges in Kotlin</b>. I hope this could be a useful learing resource for anyone who loves Kotlin programming.
+This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges in Kotlin</b>. I hope this could be a useful learning resource for anyone who loves Kotlin programming. This is very first begining I try my best to update solutions daily. Enjoy and keep practicing coding my friends!
 
 > #### ***“The only way to learn a new programming language is by writing programs in it.”***
 >
 > Dennis Ritchie
-
-**Note**: This is very first begining I try my best to update solutions daily.
-
-hackerrank solutions kotlin GitHub | hackerrank tutorial in kotlin | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in kotlin | hackerrank algorithm solution in kotlin | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in kotlin | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in kotlin | problem solving with kotlin | kotlinAID | hackerank solution | manhnvacrux
 
 * [1 Week Preparation Kit](#1-WEEK-PREPARATION-KIT)
 * [My Top Learing Kotlin Resources](#MY-TOP-KOTLIN-LEARNING-RESOURCES)
@@ -53,3 +47,5 @@ Data Structures an Algorithms
 2. [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.in/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7/)
 
 NOTE: All above shared learning resources are best of my knowledge as I have personally read all.
+
+hackerrank solutions kotlin GitHub | hackerrank tutorial in kotlin | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in kotlin | hackerrank algorithm solution in kotlin | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in kotlin | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in kotlin | problem solving with kotlin | kotlinAID | hackerank solution | manhnvacrux
