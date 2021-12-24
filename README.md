@@ -33,7 +33,7 @@ Interactive Learning
 
 1. [Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
 2. [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
-3. [Track: Kotlin Basics]( https://hyperskill.org/tracks/18)
+3. [Track: Kotlin Basics]( https://hyperskill.org/tracks/18): Project-based learning by Jetbrains
 
  Kotlin Books
 
@@ -41,7 +41,7 @@ Interactive Learning
 2. [Kotlin Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630)
 3. [The Joy Of Kotlin](https://www.manning.com/books/the-joy-of-kotlin)
 
-Data Structures an Algorithms
+Data Structures and Algorithms
 
 1. [Data Structures & Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin)
 2. [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.in/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7/)
