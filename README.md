@@ -38,7 +38,7 @@ Coding environment:
 |  6   | [Jesse and Cookies](https://www.hackerrank.com/challenges/one-week-preparation-kit-jesse-and-cookies/) | [JesseAndCookies.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_06/JesseAndCookies.kt) | Intermidiate |
 |  7   | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-preorder-traversal) |      ~~The problem statement in Kotlin not available~~       |   Advanced   |
 |  7   | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-huffman-decoding/) |      ~~The problem statement in Kotlin not available~~       |   Advanced   |
-|  7   | [No Prefix Set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set) |                        NoPrefixSet.kt                        |   Advanced   |
+|  7   | [No Prefix Set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set) | [NoPrefixSet.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_07/NoPrefixSet.kt) |   Advanced   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
