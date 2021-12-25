@@ -25,8 +25,8 @@ Coding environment:
 |  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |   Basic    |
 |  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |   Basic    |
 |  3   | [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence) |                      ZigZagSequence.kt                       |            |
-|  3   | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1) |                      TowerBreakers1.kt                       |            |
-|  3   | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1) |                       CaesarCipher1.kt                       |            |
+|  3   | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1) | [TowerBreakers1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_03/TowerBreakers1.kt) |   Basic    |
+|  3   | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1) | [CaesarCipher1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_03/CaesarCipher1.kt) |   Basic    |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
