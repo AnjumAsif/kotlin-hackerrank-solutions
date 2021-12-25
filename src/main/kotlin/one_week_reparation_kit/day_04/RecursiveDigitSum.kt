@@ -11,11 +11,11 @@ package one_week_reparation_kit.day_04
 
 fun superDigit(n: String, k: Int): Int {
     if (n.length == 1) return n.toInt()
-    var sum = 0L
+    var superDigit = 0L
 
     for (i in n.indices) {
-        sum += n[i].toString().toInt() * k
+        superDigit += n[i].toString().toInt() * k
     }
 
-    return if (sum > 10) superDigit(sum.toString(), 1) else sum.toInt()
+    return if (superDigit > 10) superDigit(superDigit.toString(), 1) else superDigit.toInt()
 }
