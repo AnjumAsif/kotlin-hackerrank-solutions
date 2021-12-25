@@ -35,7 +35,7 @@ Coding environment:
 |  5   | [Balanced Brackets](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets) | [BalancedBrackets.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_05/BalancedBrackets.kt) | Intermidiate |
 |  6   | [Simple Text Editor](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor) | [SimpleTextEditor.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_06/SimpleTextEditor.kt) | Intermidiate |
 |  6   | [Lego Blocks](https://www.hackerrank.com/challenges/one-week-preparation-kit-lego-blocks) | [LegoBlocks.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_06/LegoBlocks.kt) | Intermidiate |
-|  6   |                                                              |                                                              |              |
+|  6   | [Jesse and Cookies](https://www.hackerrank.com/challenges/one-week-preparation-kit-jesse-and-cookies/) |                      JesseAndCookies.kt                      | Intermidiate |
 |  7   |                                                              |                                                              |              |
 |  7   |                                                              |                                                              |              |
 |  7   |                                                              |                                                              |              |
