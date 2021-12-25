@@ -15,24 +15,20 @@ fun caesarCipher(s: String, k: Int): String {
 
     val offset = k % 26
     if (offset == 0) return s
-    
-    var letter: Char
-    val encryptedString = CharArray(s.length)
-    for ((index, c) in s.withIndex()) {
-        if (c in 'A'..'Z') {
-            letter = c + offset
-            if (letter > 'Z') letter -= 26
+
+    return s.toList().map { ch ->
+        if(ch in 'a'..'z') {
+            var t = ch + offset
+            if (t>'z') t -= 26
+            t
+        } else if (ch in 'A'..'Z') {
+            var t = ch + offset
+            if (t>'Z') t -= 26
+            t
+        } else {
+            ch
         }
-        else if (c in 'a'..'z') {
-            letter = c + offset
-            if (letter > 'z') letter -= 26
-        }
-        else
-            letter = c
-        encryptedString[index] = letter
-    }
-    
-    return encryptedString.joinToString("")
+    }.joinToString("")
 }
 
 fun main() {
