@@ -35,10 +35,10 @@ Coding environment:
 |  5   | [Balanced Brackets](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets) | [BalancedBrackets.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_05/BalancedBrackets.kt) | Intermidiate |
 |  6   | [Simple Text Editor](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor) | [SimpleTextEditor.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_06/SimpleTextEditor.kt) | Intermidiate |
 |  6   | [Lego Blocks](https://www.hackerrank.com/challenges/one-week-preparation-kit-lego-blocks) | [LegoBlocks.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_06/LegoBlocks.kt) | Intermidiate |
-|  6   | [Jesse and Cookies](https://www.hackerrank.com/challenges/one-week-preparation-kit-jesse-and-cookies/) |                      JesseAndCookies.kt                      | Intermidiate |
-|  7   |                                                              |                                                              |              |
-|  7   |                                                              |                                                              |              |
-|  7   |                                                              |                                                              |              |
+|  6   | [Jesse and Cookies](https://www.hackerrank.com/challenges/one-week-preparation-kit-jesse-and-cookies/) | [JesseAndCookies.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_06/JesseAndCookies.kt) | Intermidiate |
+|  7   | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-preorder-traversal) |                   TreePreorderTraversal.kt                   |   Advanced   |
+|  7   | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-huffman-decoding/) |                    TreeHuffmanDecoding.kt                    |   Advanced   |
+|  7   | [No Prefix Set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set) |                        NoPrefixSet.kt                        |   Advanced   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
