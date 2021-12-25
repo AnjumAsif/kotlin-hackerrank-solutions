@@ -16,28 +16,28 @@ Coding environment:
 
 # 1 WEEK PREPARATION KIT
 
-| Day  |                          Challenge                           |                           Solution                           | Difficulty |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  1   | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/) | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt) |   Basic    |
-|  1   | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum) | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt) |   Basic    |
-|  1   | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion) | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt) |   Basic    |
-|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) | [LonelyInteger.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/LonelyInteger.kt) |   Basic    |
-|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |   Basic    |
-|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |   Basic    |
-|  3   | [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence) |                      ZigZagSequence.kt                       |            |
-|  3   | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1) | [TowerBreakers1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_03/TowerBreakers1.kt) |   Basic    |
-|  3   | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1) | [CaesarCipher1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_03/CaesarCipher1.kt) |   Basic    |
-|  4   | [Grid Challenge](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge) | [GridChallenge.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/GridChallenge.kt) |   Basic    |
-|  4   | [Recursive Digit Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum) | [RecursiveDigitSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/RecursiveDigitSum.kt) |   Basic    |
-|  4   | [New Year Chaos](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos) | [NewYearChaos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/NewYearChaos.kt) |   Medium   |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
-|      |                                                              |                                                              |            |
+| Day  |                          Challenge                           |                           Solution                           |  Difficulty  |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------: |
+|  1   | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/) | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt) |    Basic     |
+|  1   | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum) | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt) |    Basic     |
+|  1   | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion) | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt) |    Basic     |
+|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) | [LonelyInteger.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/LonelyInteger.kt) |    Basic     |
+|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |    Basic     |
+|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |    Basic     |
+|  3   | [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence) |      ~~The problem statement in Kotlin not available~~       |              |
+|  3   | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1) | [TowerBreakers1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_03/TowerBreakers1.kt) |    Basic     |
+|  3   | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1) | [CaesarCipher1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_03/CaesarCipher1.kt) |    Basic     |
+|  4   | [Grid Challenge](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge) | [GridChallenge.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/GridChallenge.kt) |    Basic     |
+|  4   | [Recursive Digit Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum) | [RecursiveDigitSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/RecursiveDigitSum.kt) |    Basic     |
+|  4   | [New Year Chaos](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos) | [NewYearChaos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/NewYearChaos.kt) |    Medium    |
+|  5   | [Merge Two Sorted Linked Lists](https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists) |      ~~The problem statement in Kotlin not available~~       | Intermidiate |
+|  5   | [Queue using Two Stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks) |    QueueusingTwoStacks.kt<br />or QueueusingTwoStacks2.kt    | Intermidiate |
+|  5   |                                                              |                                                              | Intermidiate |
+|      |                                                              |                                                              |              |
+|      |                                                              |                                                              |              |
+|      |                                                              |                                                              |              |
+|      |                                                              |                                                              |              |
+|      |                                                              |                                                              |              |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
