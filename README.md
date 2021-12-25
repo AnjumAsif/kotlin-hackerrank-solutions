@@ -32,12 +32,13 @@ Coding environment:
 |  4   | [New Year Chaos](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos) | [NewYearChaos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_04/NewYearChaos.kt) |    Medium    |
 |  5   | [Merge Two Sorted Linked Lists](https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists) |      ~~The problem statement in Kotlin not available~~       | Intermidiate |
 |  5   | [Queue using Two Stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks) | [QueueusingTwoStacks.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_05/QueueusingTwoStacks.kt)<br />or [QueueusingTwoStacks2.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_05/QueueusingTwoStacks2.kt) | Intermidiate |
-|  5   | [Balanced Brackets](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets) |                     BalancedBrackets.kt                      | Intermidiate |
-|      |                                                              |                                                              |              |
-|      |                                                              |                                                              |              |
-|      |                                                              |                                                              |              |
-|      |                                                              |                                                              |              |
-|      |                                                              |                                                              |              |
+|  5   | [Balanced Brackets](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets) | [BalancedBrackets.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_05/BalancedBrackets.kt) | Intermidiate |
+|  6   | [Simple Text Editor](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor) |                     SimpleTextEditor.kt                      | Intermidiate |
+|  6   |                                                              |                                                              |              |
+|  6   |                                                              |                                                              |              |
+|  7   |                                                              |                                                              |              |
+|  7   |                                                              |                                                              |              |
+|  7   |                                                              |                                                              |              |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
