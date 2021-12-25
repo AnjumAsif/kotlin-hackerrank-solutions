@@ -16,14 +16,17 @@ Coding environment:
 
 # 1 WEEK PREPARATION KIT
 
-| Day  |                          Challenge                           |                           Solution                           |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  1   | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/) | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt) |
-|  1   | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum) | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt) |
-|  1   | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion) | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt) |
-|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) | [LonelyInteger.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/LonelyInteger.kt) |
-|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |
-|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |
+| Day  |                          Challenge                           |                           Solution                           | Difficulty |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  1   | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/) | [PlusMinus.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/PlusMinus.kt) |   Basic    |
+|  1   | [Min-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum) | [MinMaxSum.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/MiniMaxSum.kt) |   Basic    |
+|  1   | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion) | [TimeConversion.kt ](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_01/TimeConversion.kt) |   Basic    |
+|  2   | [Lonely Interger](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer) | [LonelyInteger.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/LonelyInteger.kt) |   Basic    |
+|  2   | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference) | [DiagonalDifference.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/DiagonalDifference.kt) |   Basic    |
+|  2   | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1) | [CountingSort1.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_02/CountingSort1.kt) |   Basic    |
+|  3   | [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence) |                      ZigZagSequence.kt                       |            |
+|  3   | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1) |                      TowerBreakers1.kt                       |            |
+|  3   | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1) |                       CaesarCipher1.kt                       |            |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
