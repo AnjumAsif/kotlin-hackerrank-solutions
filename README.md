@@ -59,12 +59,12 @@ Coding environment:
 
 # DATA STRUCTURES
 
-|  No  |                          Challenge                           |  Solution   | Difficulty | Subdomain |
-| :--: | :----------------------------------------------------------: | :---------: | :--------: | :-------: |
-|  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | ArraysDS.kt |    Easy    |  Arrays   |
-|      |                                                              |             |            |           |
-|      |                                                              |             |            |           |
-|      |                                                              |             |            |           |
+|  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
+|  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [ArraysDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/ArraysDS.kt) |    Easy    |  Arrays   |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
 
 # MATHEMETICS
 
