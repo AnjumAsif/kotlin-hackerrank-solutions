@@ -50,7 +50,7 @@ Coding environment:
 
 |  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
-|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SolveMeFirst.kt) |    Easy    |           |
+|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SolveMeFirst.kt) |    Easy    |  Warmup   |
 |      |                                                              |                                                              |            |           |
 |      |                                                              |                                                              |            |           |
 |      |                                                              |                                                              |            |           |
@@ -59,12 +59,12 @@ Coding environment:
 
 # DATA STRUCTURES
 
-|  No  | Challenge | Solution | Difficulty | Subdomain |
-| :--: | :-------: | :------: | :--------: | :-------: |
-|  1   |           |          |            |           |
-|      |           |          |            |           |
-|      |           |          |            |           |
-|      |           |          |            |           |
+|  No  |                          Challenge                           |  Solution   | Difficulty | Subdomain |
+| :--: | :----------------------------------------------------------: | :---------: | :--------: | :-------: |
+|  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | ArraysDS.kt |    Easy    |  Arrays   |
+|      |                                                              |             |            |           |
+|      |                                                              |             |            |           |
+|      |                                                              |             |            |           |
 
 # MATHEMETICS
 
