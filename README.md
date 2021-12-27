@@ -10,7 +10,6 @@ This repository contains <b>efficient hackerrank solutions</b> for most of the <
 * [Algorithms](#ALGORITHMS)
 * [Data Structures](#DATAS-TRUCTURES)
 * [Mathematics](#MATHEMATICS)
-* [Functional Programing](#FUNCTIONAL-PROGRAMMING)
 * [My Top Learing Kotlin Resources](#MY-TOP-KOTLIN-LEARNING-RESOURCES)
 
 Coding environment:
@@ -74,15 +73,6 @@ Coding environment:
 |      |                                                              |                                                              |            |              |
 |      |                                                              |                                                              |            |              |
 |      |                                                              |                                                              |            |              |
-
-# FUNCTiONAL PROGRAMMING
-
-|  No  | Challenge | Solution | Difficulty | Subdomain |
-| :--: | :-------: | :------: | :--------: | :-------: |
-|  1   |           |          |            |           |
-|      |           |          |            |           |
-|      |           |          |            |           |
-|      |           |          |            |           |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
