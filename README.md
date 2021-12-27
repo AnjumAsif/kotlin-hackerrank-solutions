@@ -68,14 +68,14 @@ Coding environment:
 
 # MATHEMATICS
 
-|  No  |                          Challenge                           |    Solution     | Difficulty |  Subdomain   |
-| :--: | :----------------------------------------------------------: | :-------------: | :--------: | :----------: |
-|  1   | [Find the Point](https://www.hackerrank.com/challenges/find-point/) | FindThePoint.kt |    Easy    | Fundamentals |
-|      |                                                              |                 |            |              |
-|      |                                                              |                 |            |              |
-|      |                                                              |                 |            |              |
+|  No  |                          Challenge                           |                           Solution                           | Difficulty |  Subdomain   |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :----------: |
+|  1   | [Find the Point](https://www.hackerrank.com/challenges/find-point/) | [FindThePoint.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FindThePoint.kt) |    Easy    | Fundamentals |
+|      |                                                              |                                                              |            |              |
+|      |                                                              |                                                              |            |              |
+|      |                                                              |                                                              |            |              |
 
-# FUNCTONAL PROGRAMMING
+# FUNCTiONAL PROGRAMMING
 
 |  No  | Challenge | Solution | Difficulty | Subdomain |
 | :--: | :-------: | :------: | :--------: | :-------: |
