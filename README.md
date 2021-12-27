@@ -7,6 +7,10 @@ This repository contains <b>efficient hackerrank solutions</b> for most of the <
 > Dennis Ritchie
 
 * [1 Week Preparation Kit](#1-WEEK-PREPARATION-KIT)
+* [Algorithms](#ALGORITHMS)
+* [DATAS TRUCTURES](#DATAS-TRUCTURES)
+* [MATHEMETICS](#MATHEMETICS)
+* [FUNCTIONAL PROGRAMMING](#FUNCTIONAL-PROGRAMMING)
 * [My Top Learing Kotlin Resources](#MY-TOP-KOTLIN-LEARNING-RESOURCES)
 
 Coding environment:
@@ -42,27 +46,18 @@ Coding environment:
 
 
 
-# Algorithms
+# ALGORITHMS
 
-|  No  |                          Challenge                           |    Solution     | Difficulty | Subdomain |
-| :--: | :----------------------------------------------------------: | :-------------: | :--------: | :-------: |
-|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | SolveMeFirst.kt |    Easy    |           |
-|      |                                                              |                 |            |           |
-|      |                                                              |                 |            |           |
-|      |                                                              |                 |            |           |
+|  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
+|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SolveMeFirst.kt) |    Easy    |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
 
 
 
-# Data Structures
-
-|  No  | Challenge | Solution | Difficulty | Subdomain |
-| :--: | :-------: | :------: | :--------: | :-------: |
-|  1   |           |          |            |           |
-|      |           |          |            |           |
-|      |           |          |            |           |
-|      |           |          |            |           |
-
-# Mathemetics
+# DATA STRUCTURES
 
 |  No  | Challenge | Solution | Difficulty | Subdomain |
 | :--: | :-------: | :------: | :--------: | :-------: |
@@ -71,10 +66,19 @@ Coding environment:
 |      |           |          |            |           |
 |      |           |          |            |           |
 
-# Functional Programming
+# MATHEMETICS
 
 |  No  | Challenge | Solution | Difficulty | Subdomain |
-| :--: | --------- | -------- | ---------- | --------- |
+| :--: | :-------: | :------: | :--------: | :-------: |
+|  1   |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+
+# FUNCTONAL PROGRAMMING
+
+|  No  | Challenge | Solution | Difficulty | Subdomain |
+| :--: | :-------: | :------: | :--------: | :-------: |
 |  1   |           |          |            |           |
 |      |           |          |            |           |
 |      |           |          |            |           |
