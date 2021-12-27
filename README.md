@@ -40,6 +40,46 @@ Coding environment:
 |  7   | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-huffman-decoding/) |      ~~The problem statement in Kotlin not available~~       |   Advanced   |
 |  7   | [No Prefix Set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set) | [NoPrefixSet.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/one_week_reparation_kit/day_07/NoPrefixSet.kt) |   Advanced   |
 
+
+
+# Algorithms
+
+|  No  |                          Challenge                           |    Solution     | Difficulty | Subdomain |
+| :--: | :----------------------------------------------------------: | :-------------: | :--------: | :-------: |
+|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | SolveMeFirst.kt |    Easy    |           |
+|      |                                                              |                 |            |           |
+|      |                                                              |                 |            |           |
+|      |                                                              |                 |            |           |
+
+
+
+# Data Structures
+
+|  No  | Challenge | Solution | Difficulty | Subdomain |
+| :--: | :-------: | :------: | :--------: | :-------: |
+|  1   |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+
+# Mathemetics
+
+|  No  | Challenge | Solution | Difficulty | Subdomain |
+| :--: | :-------: | :------: | :--------: | :-------: |
+|  1   |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+
+# Functional Programming
+
+|  No  | Challenge | Solution | Difficulty | Subdomain |
+| :--: | --------- | -------- | ---------- | --------- |
+|  1   |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+|      |           |          |            |           |
+
 # MY TOP KOTLIN LEARNING RESOURCES
 
 [Kotlin Docs](https://kotlinlang.org/docs/home.html): You can find everything about Kotlin here.

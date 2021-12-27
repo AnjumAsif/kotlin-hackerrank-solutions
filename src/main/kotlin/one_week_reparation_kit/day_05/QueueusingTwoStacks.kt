@@ -5,7 +5,7 @@ import java.util.*
 //Queue using Two Stacks Version 1
 fun main(args: Array<String>) {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT. */
-    val q: Queue<String> = LinkedList<String>();
+    val q = LinkedList<String>();
     for (i in 1..readLine()!!.toInt()) {
         val line: String = readLine()!!
         when (line.get(0)) {
