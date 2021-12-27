@@ -9,7 +9,7 @@ This repository contains <b>efficient hackerrank solutions</b> for most of the <
 * [1 Week Preparation Kit](#1-WEEK-PREPARATION-KIT)
 * [Algorithms](#ALGORITHMS)
 * [Data Structures](#DATAS-TRUCTURES)
-* [Mthematics](#MATHEMATICS)
+* [Mathematics](#MATHEMATICS)
 * [Functional Programing](#FUNCTIONAL-PROGRAMMING)
 * [My Top Learing Kotlin Resources](#MY-TOP-KOTLIN-LEARNING-RESOURCES)
 
