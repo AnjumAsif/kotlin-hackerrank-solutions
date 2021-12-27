@@ -8,9 +8,9 @@ This repository contains <b>efficient hackerrank solutions</b> for most of the <
 
 * [1 Week Preparation Kit](#1-WEEK-PREPARATION-KIT)
 * [Algorithms](#ALGORITHMS)
-* [DATAS TRUCTURES](#DATAS-TRUCTURES)
-* [MATHEMETICS](#MATHEMETICS)
-* [FUNCTIONAL PROGRAMMING](#FUNCTIONAL-PROGRAMMING)
+* [Data Structures](#DATAS-TRUCTURES)
+* [Mthematics](#MATHEMATICS)
+* [Functional Programing](#FUNCTIONAL-PROGRAMMING)
 * [My Top Learing Kotlin Resources](#MY-TOP-KOTLIN-LEARNING-RESOURCES)
 
 Coding environment:
@@ -66,7 +66,7 @@ Coding environment:
 |      |                                                              |                                                              |            |           |
 |      |                                                              |                                                              |            |           |
 
-# MATHEMETICS
+# MATHEMATICS
 
 |  No  |                          Challenge                           |    Solution     | Difficulty |  Subdomain   |
 | :--: | :----------------------------------------------------------: | :-------------: | :--------: | :----------: |
