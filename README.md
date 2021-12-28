@@ -61,7 +61,7 @@ Coding environment:
 |  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
 |  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [ArraysDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/ArraysDS.kt) |    Easy    |  Arrays   |
-|      |                                                              |                                                              |            |           |
+|  2   | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/) |                         2DArrayDS.kt                         |    Easy    |  Arrays   |
 |      |                                                              |                                                              |            |           |
 |      |                                                              |                                                              |            |           |
 
@@ -72,7 +72,7 @@ Coding environment:
 |  1   | [Find the Point](https://www.hackerrank.com/challenges/find-point/) | [FindThePoint.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FindThePoint.kt) |    Easy    | Fundamentals |
 |  2   | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [MaximumDraws.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MaximumDraws.kt) |    Easy    | Fundamentals |
 |  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    | Fundamentals |
-|  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) |                   MinimumHeightTriangle.kt                   |    Easy    | Fundamentals |
+|  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [MinimumHeightTriangle.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinimumHeightTriangle.kt) |    Easy    | Fundamentals |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
