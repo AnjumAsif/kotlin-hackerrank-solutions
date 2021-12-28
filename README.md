@@ -50,7 +50,7 @@ Coding environment:
 |  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
 |  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SolveMeFirst.kt) |    Easy    |  Warmup   |
-|      |                                                              |                                                              |            |           |
+|  2   |                       Simple Array Sum                       |                      SimpleArraySum.kt                       |    Easy    |  Warmup   |
 |      |                                                              |                                                              |            |           |
 |      |                                                              |                                                              |            |           |
 
