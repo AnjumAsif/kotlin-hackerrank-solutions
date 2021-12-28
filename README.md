@@ -74,7 +74,7 @@ Coding environment:
 |  2   | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [MaximumDraws.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MaximumDraws.kt) |    Easy    | Fundamentals |
 |  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    | Fundamentals |
 |  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [MinimumHeightTriangle.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinimumHeightTriangle.kt) |    Easy    | Fundamentals |
-|  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) |                  SherlockAndPermutations.kt                  |    Hard    | Fundamentals |
+|  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) | [SherlockAndPermutations.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/SherlockAndPermutations.kt) |    Hard    | Fundamentals |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
