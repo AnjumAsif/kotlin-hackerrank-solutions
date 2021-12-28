@@ -64,7 +64,7 @@ Coding environment:
 |  2   | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/) | [2DArrayDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/2DArrayDS.kt) |    Easy    |  Arrays   |
 |  3   |                        Dynamic Array                         | [DynamicArray.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/DynamicArray.kt) |    Easy    |  Arrays   |
 |  4   | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [LeftRotation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/LeftRotation.kt) |    Easy    |  Arrays   |
-|  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) |                      PoisonousPlants.kt                      |  Advanced  |  Stacks   |
+|  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | [PoisonousPlants.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/PoisionousPlants.kt) |    Hard    |  Stacks   |
 
 # MATHEMATICS
 
@@ -74,6 +74,7 @@ Coding environment:
 |  2   | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [MaximumDraws.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MaximumDraws.kt) |    Easy    | Fundamentals |
 |  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    | Fundamentals |
 |  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [MinimumHeightTriangle.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinimumHeightTriangle.kt) |    Easy    | Fundamentals |
+|  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) |                  SherlockAndPermutations.kt                  |    Hard    | Fundamentals |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
