@@ -66,6 +66,7 @@ Coding environment:
 |  3   |                        Dynamic Array                         | [DynamicArray.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/DynamicArray.kt) |    Easy    |  Arrays   |
 |  4   | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [LeftRotation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/LeftRotation.kt) |    Easy    |  Arrays   |
 |  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | [PoisonousPlants.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/PoisionousPlants.kt) |    Hard    |  Stacks   |
+|  6   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/) |                  KittyCalculationsOnTree.kt                  |    Hard    |   Trees   |
 
 # MATHEMATICS
 
