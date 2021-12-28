@@ -61,8 +61,8 @@ Coding environment:
 |  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
 |  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [ArraysDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/ArraysDS.kt) |    Easy    |  Arrays   |
-|  2   | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/) |                         2DArrayDS.kt                         |    Easy    |  Arrays   |
-|      |                                                              |                                                              |            |           |
+|  2   | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/) | [2DArrayDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/2DArrayDS.kt) |    Easy    |  Arrays   |
+|  3   |                        Dynamic Array                         |                       DynamicArray.kt                        |    Easy    |  Arrays   |
 |      |                                                              |                                                              |            |           |
 
 # MATHEMATICS
