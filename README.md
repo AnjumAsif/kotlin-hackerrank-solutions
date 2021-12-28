@@ -54,7 +54,7 @@ Coding environment:
 |  3   | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [CompareTheTriplets.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CompareTheTriplets.kt) |    Easy    |  Warmup   |
 |  4   | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/) | [AVeryBigSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/AVeryBigSum.kt) |    Easy    |  Warmup   |
 |  5   | [Morgan And A String](https://www.hackerrank.com/challenges/morgan-and-a-string/) | [MorganAndString.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/MorganAndString.kt) |   Expert   |  Strings  |
-|  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   |                          TwoTwo.kt                           |  Advanced  |  Strings  |
+|  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   | [TwoTwo.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoTwo.kt) |  Advanced  |  Strings  |
 
 
 
