@@ -71,8 +71,8 @@ Coding environment:
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :----------: |
 |  1   | [Find the Point](https://www.hackerrank.com/challenges/find-point/) | [FindThePoint.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FindThePoint.kt) |    Easy    | Fundamentals |
 |  2   | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [MaximumDraws.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MaximumDraws.kt) |    Easy    | Fundamentals |
-|  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) |                         Handshake.kt                         |    Easy    | Fundamentals |
-|      |                                                              |                                                              |            |              |
+|  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    | Fundamentals |
+|  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) |                   MinimumHeightTriangle.kt                   |    Easy    | Fundamentals |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
