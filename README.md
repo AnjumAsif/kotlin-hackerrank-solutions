@@ -59,12 +59,6 @@ Coding environment:
 |  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) | [PseudoIsomorphicSubstrings.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/commit/f89ec46ee5124c607f74c8b57176e6e6121807e5) |   Expert   |   Strings    |
 |  9   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) | [LetterIslands.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LetterIslands.kt) |   Expert   |   Strings    |
 |  10  | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) |                      TwoStringsGame.kt                       |   Expert   |   Strings    |
-|  11  |                                                              |                                                              |            |              |
-|  12  |                                                              |                                                              |            |              |
-|  13  |                                                              |                                                              |            |              |
-|  14  |                                                              |                                                              |            |              |
-|  15  |                                                              |                                                              |            |              |
-|  16  |                                                              |                                                              |            |              |
 
 
 
@@ -78,6 +72,10 @@ Coding environment:
 |  4   | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [LeftRotation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/LeftRotation.kt) |    Easy    |  Arrays   |
 |  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | [PoisonousPlants.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/PoisionousPlants.kt) |    Hard    |  Stacks   |
 |  6   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/) | [KittyCalculationsOnTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/KittyCalculationsOnTree.kt) |    Hard    |   Trees   |
+|  7   | [Jaggu Playing with Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/) |                 JagguPlayingWithBalloons.kt                  |  Advanced  | Advanced  |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
 
 # MATHEMATICS
 
