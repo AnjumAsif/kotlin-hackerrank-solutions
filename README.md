@@ -55,8 +55,8 @@ Coding environment:
 |  4   | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/) | [AVeryBigSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/AVeryBigSum.kt) |    Easy    |    Warmup    |
 |  5   | [Morgan And A String](https://www.hackerrank.com/challenges/morgan-and-a-string/) | [MorganAndString.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/MorganAndString.kt) |   Expert   |   Strings    |
 |  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   | [TwoTwo.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoTwo.kt) |  Advanced  |   Strings    |
-|  7   | [Training the Army](https://www.hackerrank.com/challenges/training-the-army/problem) |                      TrainingTheArmy.kt                      |    Hard    | Graph Theory |
-|      |                                                              |                                                              |            |              |
+|  7   | [Training the Army](https://www.hackerrank.com/challenges/training-the-army/problem) | [TrainingTheArmy.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TrainingTheArmy.kt) |    Hard    | Graph Theory |
+|  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) |                PseudoIsomorphicSubstrings.kt                 |   Expert   |   Strings    |
 |      |                                                              |                                                              |            |              |
 
 
