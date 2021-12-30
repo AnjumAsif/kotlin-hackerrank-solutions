@@ -57,7 +57,7 @@ Coding environment:
 |  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   | [TwoTwo.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoTwo.kt) |  Advanced  |   Strings    |
 |  7   | [Training the Army](https://www.hackerrank.com/challenges/training-the-army/problem) | [TrainingTheArmy.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TrainingTheArmy.kt) |    Hard    | Graph Theory |
 |  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) |                PseudoIsomorphicSubstrings.kt                 |   Expert   |   Strings    |
-|      |                                                              |                                                              |            |              |
+|      | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) |                       LetterIslands.kt                       |   Expert   |   Strings    |
 
 
 
