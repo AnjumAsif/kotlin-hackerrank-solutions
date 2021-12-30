@@ -47,14 +47,17 @@ Coding environment:
 
 # ALGORITHMS
 
-|  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
-|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SolveMeFirst.kt) |    Easy    |  Warmup   |
-|  2   | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/) | [SimpleArraySum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SimpleArraySum.kt) |    Easy    |  Warmup   |
-|  3   | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [CompareTheTriplets.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CompareTheTriplets.kt) |    Easy    |  Warmup   |
-|  4   | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/) | [AVeryBigSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/AVeryBigSum.kt) |    Easy    |  Warmup   |
-|  5   | [Morgan And A String](https://www.hackerrank.com/challenges/morgan-and-a-string/) | [MorganAndString.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/MorganAndString.kt) |   Expert   |  Strings  |
-|  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   | [TwoTwo.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoTwo.kt) |  Advanced  |  Strings  |
+|  No  |                          Challenge                           |                           Solution                           | Difficulty |  Subdomain   |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :----------: |
+|  1   | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SolveMeFirst.kt) |    Easy    |    Warmup    |
+|  2   | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/) | [SimpleArraySum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SimpleArraySum.kt) |    Easy    |    Warmup    |
+|  3   | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [CompareTheTriplets.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CompareTheTriplets.kt) |    Easy    |    Warmup    |
+|  4   | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/) | [AVeryBigSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/AVeryBigSum.kt) |    Easy    |    Warmup    |
+|  5   | [Morgan And A String](https://www.hackerrank.com/challenges/morgan-and-a-string/) | [MorganAndString.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/MorganAndString.kt) |   Expert   |   Strings    |
+|  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   | [TwoTwo.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoTwo.kt) |  Advanced  |   Strings    |
+|  7   | [Training the Army](https://www.hackerrank.com/challenges/training-the-army/problem) |                      TrainingTheArmy.kt                      |    Hard    | Graph Theory |
+|      |                                                              |                                                              |            |              |
+|      |                                                              |                                                              |            |              |
 
 
 
