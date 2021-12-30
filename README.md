@@ -85,6 +85,8 @@ Coding environment:
 |  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) | [SherlockAndPermutations.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/SherlockAndPermutations.kt) |    Hard    | Fundamentals  |
 |  6   | [GCD Product](https://www.hackerrank.com/challenges/gcd-product/) |                        GcdProduct.kt                         |    Hard    | Number Theory |
 |  7   | [GCD Mocktail](https://www.hackerrank.com/challenges/gcd-mocktail/problem) |                        GcdMoctail.kt                         |  Advanced  | Number Theory |
+|  8   | [String Modification](https://www.hackerrank.com/challenges/string-modification/problem) |                    StringModification.kt                     |   Expert   | Combinatorics |
+|  9   | [Insane DFS](https://www.hackerrank.com/challenges/insane-dfs/problem) |                         InsaneDFS.kt                         |   Expert   | Combinatorics |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 

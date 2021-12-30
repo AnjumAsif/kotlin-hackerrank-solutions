@@ -8,7 +8,7 @@ import kotlin.math.sqrt
 const val MAX = 30000001
 
 /** Assume 1 <= a < M and (a, M) = 1.  Return b such that 1 <= b < M and a*b = 1(mod M).  */
-fun inv(a: Int): Int {
+fun solve(a: Int): Int {
     //assert a >= 1 && a < M;
     var t = 0
     var r = MAX
@@ -82,7 +82,7 @@ fun coefficients(L: Int): LongArray {
             }
             j++
         }
-        e = d * inv(e.toInt()) % MAX
+        e = d * solve(e.toInt()) % MAX
         j = 0
         while (j <= L + 1) {
             c[j] = (c[j] + e * b[j]) % MAX
