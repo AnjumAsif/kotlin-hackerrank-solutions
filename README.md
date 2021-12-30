@@ -56,8 +56,8 @@ Coding environment:
 |  5   | [Morgan And A String](https://www.hackerrank.com/challenges/morgan-and-a-string/) | [MorganAndString.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/MorganAndString.kt) |   Expert   |   Strings    |
 |  6   |  [Two Two](https://www.hackerrank.com/challenges/two-two/)   | [TwoTwo.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoTwo.kt) |  Advanced  |   Strings    |
 |  7   | [Training the Army](https://www.hackerrank.com/challenges/training-the-army/problem) | [TrainingTheArmy.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TrainingTheArmy.kt) |    Hard    | Graph Theory |
-|  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) |                PseudoIsomorphicSubstrings.kt                 |   Expert   |   Strings    |
-|      | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) |                       LetterIslands.kt                       |   Expert   |   Strings    |
+|  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) | [PseudoIsomorphicSubstrings.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/commit/f89ec46ee5124c607f74c8b57176e6e6121807e5) |   Expert   |   Strings    |
+|      | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) | [LetterIslands.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LetterIslands.kt) |   Expert   |   Strings    |
 
 
 
