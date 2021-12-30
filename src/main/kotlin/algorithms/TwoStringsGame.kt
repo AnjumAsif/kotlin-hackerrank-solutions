@@ -1,9 +1,7 @@
 package algorithms
 
-import java.io.BufferedReader
 import java.io.BufferedWriter
 import java.io.FileWriter
-import java.io.InputStreamReader
 import java.util.*
 
 const val max = 300000
@@ -13,21 +11,20 @@ var was = BooleanArray(30)
 lateinit var srt: LongArray
 
 fun main() {
-    val br = BufferedReader(InputStreamReader(System.`in`))
     val bw = BufferedWriter(FileWriter(System.getenv("OUTPUT_PATH")))
-    val st = StringTokenizer(br.readLine())
+    val st = StringTokenizer(readLine())
     val n = st.nextToken().toInt()
     val m = st.nextToken().toInt()
     var k = st.nextToken().toLong()
     srt = LongArray(max * 2 + 3)
 
     val twoStringsGame1 = TwoStringsGame(n)
-    val a = br.readLine().toCharArray()
+    val a = readLine()!!.toCharArray()
     for (i in 0 until n) {
         twoStringsGame1.push(a[i] - 'a')
     }
     val twoStringsGame2 = TwoStringsGame(n)
-    val b = br.readLine().toCharArray()
+    val b = readLine()!!.toCharArray()
     for (i in 0 until m) {
         twoStringsGame2.push(b[i] - 'a')
     }
@@ -57,7 +54,6 @@ fun main() {
         bw.write("no solution")
         bw.newLine()
         bw.close()
-        br.close()
         return
     }
     var cur = 1
@@ -96,7 +92,6 @@ fun main() {
     }
     bw.newLine()
     bw.close()
-    br.close()
 }
 
 class TwoStringsGame(n: Int) {

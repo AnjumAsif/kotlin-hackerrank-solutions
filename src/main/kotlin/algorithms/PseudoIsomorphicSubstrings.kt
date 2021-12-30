@@ -1,9 +1,7 @@
 import java.util.*
 
-
 fun main(args: Array<String>) {
-    val input = Scanner(System.`in`)
-    val line = input.next()
+    val line = readLine()!!
     val charsLine = line.toCharArray()
     val idxMinusPrevOccurenceIdx = IntArray(line.length)
     val prev: MutableMap<Char, Int> = HashMap()

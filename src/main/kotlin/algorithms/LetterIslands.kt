@@ -1,11 +1,10 @@
 import java.util.*
 
 fun main(args: Array<String>) {
-    val input = Scanner(System.`in`)
-    val tests = 1 //in.nextInt();
+    val tests = 1
     for (test in 0 until tests) {
-        val s = input.next()
-        val k = input.nextInt()
+        val s = readLine()!!
+        val k = readLine()!!.trim().toInt()
         letterIslands(s, k)
     }
 }
