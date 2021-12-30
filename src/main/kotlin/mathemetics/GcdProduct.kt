@@ -14,7 +14,7 @@ import java.util.*
 const val M = 1000000007
 val p = BooleanArray(15000000 + 1)
 
-private fun solve(n: Int, m: Int): Long {
+private fun solveGCDProduct(n: Int, m: Int): Long {
     generatePrimes()
     val min = n.coerceAtMost(m)
     var sol: Long = 1
@@ -26,7 +26,7 @@ private fun solve(n: Int, m: Int): Long {
             pow += n / div * (m / div)
             div *= i.toLong()
         }
-        sol = sol * modPow(i.toLong(), pow) % M
+        sol = sol * modPow(i.toLong(), pow) % MAX
     }
     return sol
 }
@@ -49,8 +49,8 @@ private fun modPow(base: Long, pow: Long): Int {
     var t: Long = 1
     var p = base
     while (pow > 0) {
-        if (pow and 1 == 1L) t = t * p % M
-        p = p * p % M
+        if (pow and 1 == 1L) t = t * p % MAX
+        p = p * p % MAX
         pow = pow ushr 1
     }
     return t.toInt()

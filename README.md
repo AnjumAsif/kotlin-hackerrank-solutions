@@ -83,8 +83,8 @@ Coding environment:
 |  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    | Fundamentals  |
 |  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [MinimumHeightTriangle.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinimumHeightTriangle.kt) |    Easy    | Fundamentals  |
 |  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) | [SherlockAndPermutations.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/SherlockAndPermutations.kt) |    Hard    | Fundamentals  |
-|  6   |      https://www.hackerrank.com/challenges/gcd-product/      |                        GcdProduct.kt                         |    Hard    | Number Theory |
-|      |                                                              |                                                              |            |               |
+|  6   | [GCD Product](https://www.hackerrank.com/challenges/gcd-product/) |                        GcdProduct.kt                         |    Hard    | Number Theory |
+|  7   | [GCD Mocktail](https://www.hackerrank.com/challenges/gcd-mocktail/problem) |                        GcdMoctail.kt                         |  Advanced  | Number Theory |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
