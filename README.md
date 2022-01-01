@@ -58,7 +58,7 @@ Coding environment:
 |  7   | [Training the Army](https://www.hackerrank.com/challenges/training-the-army/problem) | [TrainingTheArmy.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TrainingTheArmy.kt) |    Hard    | Graph Theory |
 |  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) | [PseudoIsomorphicSubstrings.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/commit/f89ec46ee5124c607f74c8b57176e6e6121807e5) |   Expert   |   Strings    |
 |  9   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) | [LetterIslands.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LetterIslands.kt) |   Expert   |   Strings    |
-|  10  | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) |                      TwoStringsGame.kt                       |   Expert   |   Strings    |
+|  10  | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [TwoStringsGame.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoStringsGame.kt) |   Expert   |   Strings    |
 
 
 
@@ -75,7 +75,7 @@ Coding environment:
 |  7   | [Jaggu Playing with Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/) | [JagguPlayingWithBalloons.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/JagguPlayingWithBalloons.kt) |  Advanced  | Advanced  |
 |  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                   ~~DynamicSummation.kt~~                    |  Advanced  | Advanced  |
 |  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) | [TwoArrayProblem.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TwoArrayProblem.kt) |  Advanced  | Advanced  |
-|  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) |                      ~~RootedTree.kt~~                       |  Advanced  | Advanced  |
+|  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) | [RootedTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/RootedTree.kt) |  Advanced  | Advanced  |
 |  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) | [TheCrazyHelix.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TheCrazyHelix.kt) |  Advanced  | Advanced  |
 |  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) | [NetworkAdministraion.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/NetworkAdministration.kt) |  Advanced  | Advanced  |
 |  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) | [EasyAddition.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/EasyAdditon.kt) |  Advanced  | Advanced  |
