@@ -76,7 +76,7 @@ Coding environment:
 |  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                                                              |  Advanced  | Advanced  |
 |  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) | [TwoArrayProblem.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TwoArrayProblem.kt) |  Advanced  | Advanced  |
 |  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) |                                                              |  Advanced  | Advanced  |
-|  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) |                                                              |  Advanced  | Advanced  |
+|  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) |                       TheCrazyHelix.kt                       |  Advanced  | Advanced  |
 |  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) |                                                              |  Advanced  | Advanced  |
 |  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) |                                                              |  Advanced  | Advanced  |
 |  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) |                                                              |  Advanced  | Advanced  |
