@@ -73,13 +73,13 @@ Coding environment:
 |  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | [PoisonousPlants.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/PoisionousPlants.kt) |    Hard    |  Stacks   |
 |  6   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/) | [KittyCalculationsOnTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/KittyCalculationsOnTree.kt) |    Hard    |   Trees   |
 |  7   | [Jaggu Playing with Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/) | [JagguPlayingWithBalloons.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/JagguPlayingWithBalloons.kt) |  Advanced  | Advanced  |
-|  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                                                              |  Advanced  | Advanced  |
+|  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                     DynamicSummation.kt                      |  Advanced  | Advanced  |
 |  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) | [TwoArrayProblem.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TwoArrayProblem.kt) |  Advanced  | Advanced  |
-|  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) |                                                              |  Advanced  | Advanced  |
+|  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) |                        RootedTree.kt                         |  Advanced  | Advanced  |
 |  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) |                       TheCrazyHelix.kt                       |  Advanced  | Advanced  |
-|  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) |                                                              |  Advanced  | Advanced  |
-|  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) |                                                              |  Advanced  | Advanced  |
-|  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) |                                                              |  Advanced  | Advanced  |
+|  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) |                   NetworkAdministraion.kt                    |  Advanced  | Advanced  |
+|  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) |                       EasyAddition.kt                        |  Advanced  | Advanced  |
+|  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) |                    FindThePermutation.kt                     |  Advanced  | Advanced  |
 
 # MATHEMATICS
 
