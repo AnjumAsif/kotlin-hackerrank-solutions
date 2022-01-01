@@ -76,10 +76,10 @@ Coding environment:
 |  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                     DynamicSummation.kt                      |  Advanced  | Advanced  |
 |  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) | [TwoArrayProblem.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TwoArrayProblem.kt) |  Advanced  | Advanced  |
 |  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) |                        RootedTree.kt                         |  Advanced  | Advanced  |
-|  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) |                       TheCrazyHelix.kt                       |  Advanced  | Advanced  |
-|  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) |                   NetworkAdministraion.kt                    |  Advanced  | Advanced  |
-|  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) |                       EasyAddition.kt                        |  Advanced  | Advanced  |
-|  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) |                    FindThePermutation.kt                     |  Advanced  | Advanced  |
+|  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) | [TheCrazyHelix.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TheCrazyHelix.kt) |  Advanced  | Advanced  |
+|  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) | [NetworkAdministraion.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/NetworkAdministration.kt) |  Advanced  | Advanced  |
+|  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) | [EasyAddition.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/EasyAdditon.kt) |  Advanced  | Advanced  |
+|  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) | [FindThePermutation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/FineThePermutation.kt) |  Advanced  | Advanced  |
 
 # MATHEMATICS
 
