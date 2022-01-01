@@ -88,14 +88,14 @@ fun init() {
 }
 
 fun ways(k: Long, n: Long, r: Long): Long {
-    return roy(n - k * (r - 1), r)
+    return fenwick(n - k * (r - 1), r)
 }
 
 private fun nCr(n: Long, k: Long): Long {
     return if (n < 0 || k < 0 || k > n) 0 else Fact[n.toInt()] * rFact[k.toInt()] % MODULO * rFact[(n - k).toInt()] % MODULO
 }
 
-fun roy(n: Long, r: Long): Long {
+fun fenwick(n: Long, r: Long): Long {
     return if (n < MODULO) nCr(n, r) else nCr(n / MODULO, r / MODULO) * nCr(n % MODULO, r % MODULO) % MODULO
 }
 
