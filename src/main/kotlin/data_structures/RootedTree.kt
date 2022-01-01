@@ -27,7 +27,7 @@ fun solve() {
     val rights = makeRights(graph, parents, root)
     val iOrder = rights[1]
     val right = rights[2]
-    val spar = logstepParents(parents)
+    val spar = logStepParents(parents)
     val f2 = LongArray(n + 2)
     val f1 = LongArray(n + 2)
     val f0 = LongArray(n + 2)
@@ -51,15 +51,15 @@ fun solve() {
             val a = ni() - 1
             val b = ni() - 1
             val lca = longestCommonAncestor(a, b, spar, depths)
-            val plca = parents[lca]
-            val vala = fenwickValue(a, f2, f1, f0, iOrder, depths)
-            val valb = fenwickValue(b, f2, f1, f0, iOrder, depths)
-            val vall = fenwickValue(lca, f2, f1, f0, iOrder, depths)
-            var valpl = 0L
-            if (plca != -1) {
-                valpl = fenwickValue(plca, f2, f1, f0, iOrder, depths)
+            val parentLCA = parents[lca]
+            val valA = fenwickValue(a, f2, f1, f0, iOrder, depths)
+            val valB = fenwickValue(b, f2, f1, f0, iOrder, depths)
+            val valL = fenwickValue(lca, f2, f1, f0, iOrder, depths)
+            var valParent = 0L
+            if (parentLCA != -1) {
+                valParent = fenwickValue(parentLCA, f2, f1, f0, iOrder, depths)
             }
-            var result = (vala + valb - vall - valpl) * i2 % mod
+            var result = (valA + valB - valL - valParent) * i2 % mod
             if (result < 0) {
                 result += mod.toLong()
             }
@@ -75,8 +75,7 @@ fun invert(a: Long, mod: Long): Long {
     var q: Long = 0
     while (b > 0) {
         val c = a / b
-        var d: Long
-        d = a
+        var d: Long = a
         a = b
         b = d % b
         d = p
@@ -86,18 +85,6 @@ fun invert(a: Long, mod: Long): Long {
     return if (p < 0) {
         p + mod
     } else p
-}
-
-fun restoreFenwick(ft: LongArray): LongArray {
-    val n = ft.size - 1
-    val ret = LongArray(n)
-    for (i in 0 until n) {
-        ret[i] = sumFenwick(ft, i)
-    }
-    for (i in n - 1 downTo 1) {
-        ret[i] -= ret[i - 1]
-    }
-    return ret
 }
 
 fun fenwickValue(a: Int, f2: LongArray, f1: LongArray, f0: LongArray, iord: IntArray, dep: IntArray): Long {
@@ -137,13 +124,13 @@ fun highestOneBit(i: Int): Int {
     }
     var k = 1
     while (k < i) {
-        k = k * 2
+        k *= 2
     }
     return k
 }
 
 fun numberOfTrailingZeros(t: Int): Int {
-    val ZerosOnRightModLookup = intArrayOf(
+    val zerosOnRightModLookup = intArrayOf(
         32,
         0,
         1,
@@ -184,7 +171,7 @@ fun numberOfTrailingZeros(t: Int): Int {
     )
     return if (t == 0) {
         1
-    } else ZerosOnRightModLookup[(t and -t) % 37]
+    } else zerosOnRightModLookup[(t and -t) % 37]
 }
 
 fun longestCommonAncestor(a: Int, b: Int, spar: Array<IntArray>, depth: IntArray): Int {
@@ -234,7 +221,7 @@ fun ancestor(a: Int, m: Int, spar: Array<IntArray>): Int {
     return a
 }
 
-fun logstepParents(par: IntArray): Array<IntArray> {
+fun logStepParents(par: IntArray): Array<IntArray> {
     val n = par.size
     val m = numberOfTrailingZeros(highestOneBit(n - 1)) + 1
     val pars = Array(m) { IntArray(n) }
@@ -254,21 +241,21 @@ fun logstepParents(par: IntArray): Array<IntArray> {
 fun makeRights(g: Array<IntArray?>, par: IntArray, root: Int): Array<IntArray> {
     val n = g.size
     val ord = sortByPreorder(g, root)
-    val iord = IntArray(n)
+    val iOrd = IntArray(n)
     for (i in 0 until n) {
-        iord[ord[i]] = i
+        iOrd[ord[i]] = i
     }
     val right = IntArray(n)
     for (i in n - 1 downTo 0) {
         var v = i
         for (e in g[ord[i]]!!) {
             if (e != par[ord[i]]) {
-                v = Math.max(v, right[iord[e]])
+                v = v.coerceAtLeast(right[iOrd[e]])
             }
         }
         right[i] = v
     }
-    return arrayOf(ord, iord, right)
+    return arrayOf(ord, iOrd, right)
 }
 
 fun sortByPreorder(g: Array<IntArray?>, root: Int): IntArray {
@@ -344,26 +331,26 @@ fun makeGraph(n: Int, from: IntArray, to: IntArray): Array<IntArray?> {
     return g
 }
 
-val inbuf = ByteArray(1024)
-var lenbuf = 0
-var ptrbuf = 0
+val inBuf = ByteArray(1024)
+var lenBuf = 0
+var ptrBuf = 0
 
 fun readByte(): Int {
-    if (lenbuf == -1) throw InputMismatchException()
-    if (ptrbuf >= lenbuf) {
-        ptrbuf = 0
+    if (lenBuf == -1) throw InputMismatchException()
+    if (ptrBuf >= lenBuf) {
+        ptrBuf = 0
         try {
-            lenbuf = inputStream!!.read(inbuf)
+            lenBuf = inputStream!!.read(inBuf)
         } catch (e: IOException) {
             throw InputMismatchException()
         }
-        if (lenbuf <= 0) return -1
+        if (lenBuf <= 0) return -1
     }
-    return inbuf[ptrbuf++].toInt()
+    return inBuf[ptrBuf++].toInt()
 }
 
 fun isSpaceChar(c: Int): Boolean {
-    return !(c >= 33 && c <= 126)
+    return !(c in 33..126)
 }
 
 fun skip(): Int {
