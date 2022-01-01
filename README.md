@@ -74,7 +74,7 @@ Coding environment:
 |  6   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/) | [KittyCalculationsOnTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/KittyCalculationsOnTree.kt) |    Hard    |   Trees   |
 |  7   | [Jaggu Playing with Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/) | [JagguPlayingWithBalloons.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/JagguPlayingWithBalloons.kt) |  Advanced  | Advanced  |
 |  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                                                              |  Advanced  | Advanced  |
-|  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) |                                                              |  Advanced  | Advanced  |
+|  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) |                      TwoArrayProblem.kt                      |  Advanced  | Advanced  |
 |  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) |                                                              |  Advanced  | Advanced  |
 |  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) |                                                              |  Advanced  | Advanced  |
 |  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) |                                                              |  Advanced  | Advanced  |
