@@ -59,41 +59,41 @@ Coding environment:
 |  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) | [PseudoIsomorphicSubstrings.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/commit/f89ec46ee5124c607f74c8b57176e6e6121807e5) |   Expert   |       Strings       |
 |  9   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) | [LetterIslands.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LetterIslands.kt) |   Expert   |       Strings       |
 |  10  | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [TwoStringsGame.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoStringsGame.kt) |   Expert   |       Strings       |
-|  11  | [Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem?isFullScreen=true) |                      RepetitiveKSum.kt                       |  Advanced  |      Recursion      |
-|  12  |                       Dortmund Dilemma                       |                      DortmundDilemma.kt                      |  Advanced  | Dynamic Programming |
-|      |                                                              |                                                              |            |                     |
+|  11  | [Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem?isFullScreen=true) | [RepetitiveKSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/RepetitiveKSum.kt) |  Advanced  |      Recursion      |
+|  12  |                       Dortmund Dilemma                       | [DortmundDilemma.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/DortmundDilemma.kt) |  Advanced  | Dynamic Programming |
+|  13  | [Seperate The Chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate/problem) | [SeperateTheChocolate.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SeparateTheChocolate.kt) |   Expert   | Dynamic Programming |
 |      |                                                              |                                                              |            |                     |
 
 
 
 # DATA STRUCTURES
 
-|  No  |                          Challenge                           |                           Solution                           | Difficulty |      Subdomain      |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-----------------: |
-|  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [ArraysDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/ArraysDS.kt) |    Easy    |       Arrays        |
-|  2   | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/) | [2DArrayDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/2DArrayDS.kt) |    Easy    |       Arrays        |
-|  3   | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [DynamicArray.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/DynamicArray.kt) |    Easy    |       Arrays        |
-|  4   | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [LeftRotation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/LeftRotation.kt) |    Easy    |       Arrays        |
-|  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | [PoisonousPlants.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/PoisionousPlants.kt) |    Hard    |       Stacks        |
-|  6   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/) | [KittyCalculationsOnTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/KittyCalculationsOnTree.kt) |    Hard    |        Trees        |
-|  7   | [Jaggu Playing with Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/) | [JagguPlayingWithBalloons.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/JagguPlayingWithBalloons.kt) |  Advanced  |      Advanced       |
-|  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                   ~~DynamicSummation.kt~~                    |  Advanced  |      Advanced       |
-|  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) | [TwoArrayProblem.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TwoArrayProblem.kt) |  Advanced  |      Advanced       |
-|  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) | [RootedTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/RootedTree.kt) |  Advanced  |      Advanced       |
-|  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) | [TheCrazyHelix.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TheCrazyHelix.kt) |  Advanced  |      Advanced       |
-|  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) | [NetworkAdministraion.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/NetworkAdministration.kt) |  Advanced  |      Advanced       |
-|  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) | [EasyAddition.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/EasyAdditon.kt) |  Advanced  |      Advanced       |
-|  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) | [FindThePermutation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/FineThePermutation.kt) |  Advanced  |      Advanced       |
-|  15  | [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree/) | [ColoringTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/tree/master/src/main/kotlin/data_structures#:~:text=4%20days%20ago-,ColoringTree.kt,-Solve%20Colouring%20Tree) |  Advanced  |      Advanced       |
-|  16  | [Swap and Sum](https://www.hackerrank.com/challenges/swaps-and-sum/) | [SwapAndSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/SwapAndSum.kt) |  Advanced  |      Advanced       |
-|  17  | [Seperate The Chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate/problem) |                   SeperateTheChocolate.kt                    |   Expert   | Dynamic Programming |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
+|  No  |                          Challenge                           |                           Solution                           | Difficulty | Subdomain |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-------: |
+|  1   | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [ArraysDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/ArraysDS.kt) |    Easy    |  Arrays   |
+|  2   | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/) | [2DArrayDS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/2DArrayDS.kt) |    Easy    |  Arrays   |
+|  3   | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [DynamicArray.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/DynamicArray.kt) |    Easy    |  Arrays   |
+|  4   | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [LeftRotation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/LeftRotation.kt) |    Easy    |  Arrays   |
+|  5   | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | [PoisonousPlants.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/PoisionousPlants.kt) |    Hard    |  Stacks   |
+|  6   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/) | [KittyCalculationsOnTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/KittyCalculationsOnTree.kt) |    Hard    |   Trees   |
+|  7   | [Jaggu Playing with Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers/) | [JagguPlayingWithBalloons.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/JagguPlayingWithBalloons.kt) |  Advanced  | Advanced  |
+|  8   | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation/) |                   ~~DynamicSummation.kt~~                    |  Advanced  | Advanced  |
+|  9   | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries/) | [TwoArrayProblem.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TwoArrayProblem.kt) |  Advanced  | Advanced  |
+|  10  | [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree/) | [RootedTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/RootedTree.kt) |  Advanced  | Advanced  |
+|  11  | [The crazy helix](https://www.hackerrank.com/challenges/helix/) | [TheCrazyHelix.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/TheCrazyHelix.kt) |  Advanced  | Advanced  |
+|  12  | [Network administration](https://www.hackerrank.com/challenges/net-admin) | [NetworkAdministraion.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/NetworkAdministration.kt) |  Advanced  | Advanced  |
+|  13  | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition/) | [EasyAddition.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/EasyAdditon.kt) |  Advanced  | Advanced  |
+|  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) | [FindThePermutation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/FineThePermutation.kt) |  Advanced  | Advanced  |
+|  15  | [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree/) | [ColoringTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/tree/master/src/main/kotlin/data_structures#:~:text=4%20days%20ago-,ColoringTree.kt,-Solve%20Colouring%20Tree) |  Advanced  | Advanced  |
+|  16  | [Swap and Sum](https://www.hackerrank.com/challenges/swaps-and-sum/) | [SwapAndSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/SwapAndSum.kt) |  Advanced  | Advanced  |
+|  17  |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
 
 # MATHEMATICS
 
@@ -108,11 +108,11 @@ Coding environment:
 |  7   | [GCD Mocktail](https://www.hackerrank.com/challenges/gcd-mocktail/problem) | [GcdMoctail.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/GcdMocktail.kt) |  Advanced  |  Number Theory   |
 |  8   | [String Modification](https://www.hackerrank.com/challenges/string-modification/problem) | [StringModification.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/StringModification.kt) |   Expert   |  Combinatorics   |
 |  9   | [Insane DFS](https://www.hackerrank.com/challenges/insane-dfs/problem) | [InsaneDFS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/InsaneDFS.kt) |   Expert   |  Combinatorics   |
-|  10  | [Isosceles Triangles](https://www.hackerrank.com/challenges/isosceles-triangles/problem) |                    IsoscelesTriangles.kt                     |    Hard    |     Geometry     |
-|  11  | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance/problem) |                      HammingDistance.kt                      |   Expert   | Bit Manipulation |
-|  12  | [The Black Box](https://www.hackerrank.com/challenges/black-box-1/problem?isFullScreen=true) |                        TheBlackBox.kt                        |  Advanced  |     Algebra      |
-|  13  | [nCr](https://www.hackerrank.com/challenges/ncr/problem?isFullScreen=true) |                            nCr.kt                            |   Expert   |  Number Theory   |
-|  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) |                        Teleporters.kt                        |   Expert   |   Cobinatorics   |
+|  10  | [Isosceles Triangles](https://www.hackerrank.com/challenges/isosceles-triangles/problem) | [IsoscelesTriangles.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/IsoscelesTriangles.kt) |    Hard    |     Geometry     |
+|  11  | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance/problem) | [HammingDistance.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/tree/master/src/main/kotlin/mathemetics#:~:text=3%20days%20ago-,HammingDistance.kt,-Solve%20Hamming%20Distance) |   Expert   | Bit Manipulation |
+|  12  | [The Black Box](https://www.hackerrank.com/challenges/black-box-1/problem?isFullScreen=true) | [TheBlackBox.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/TheBlackBox.kt) |  Advanced  |     Algebra      |
+|  13  | [nCr](https://www.hackerrank.com/challenges/ncr/problem?isFullScreen=true) | [nCr.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/nCr.kt) |   Expert   |  Number Theory   |
+|  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) | [Teleporters.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Teleporters.kt) |   Expert   |   Cobinatorics   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
