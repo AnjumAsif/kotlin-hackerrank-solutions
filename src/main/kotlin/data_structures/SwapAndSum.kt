@@ -129,18 +129,18 @@ class Solution {
         var r: Node? = null
         var depth: Int
         var size = 0
-        var `val`: Long
+        var value: Long
         var sum: Long = 0
 
         init {
             depth = rnd.nextInt()
-            this.`val` = node
+            this.value = node
             rehash()
         }
 
         fun rehash() {
             size = 1
-            sum = `val`
+            sum = value
             if (l != null) {
                 size += l!!.size
                 sum += l!!.sum

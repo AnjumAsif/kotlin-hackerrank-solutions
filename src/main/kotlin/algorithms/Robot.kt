@@ -37,12 +37,12 @@ class Robot {
             }
         }
 
-        fun put(pos: Int, `val`: Long) {
+        fun put(pos: Int, value: Long) {
             if (l == pos && pos + 1 == r) {
-                min = min.coerceAtMost(`val`)
+                min = min.coerceAtMost(value)
                 return
             }
-            (if (pos < left!!.r) left else right)!!.put(pos, `val`)
+            (if (pos < left!!.r) left else right)!!.put(pos, value)
             min = left!!.min.coerceAtMost(right!!.min)
         }
 

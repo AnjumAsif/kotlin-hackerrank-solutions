@@ -117,8 +117,8 @@ Coding environment:
 |  13  | [nCr](https://www.hackerrank.com/challenges/ncr/problem?isFullScreen=true) | [nCr.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/nCr.kt) |   Expert   |  Number Theory   |
 |  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) | [Teleporters.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Teleporters.kt) |   Expert   |   Cobinatorics   |
 |  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) |                      MinionOfTheYear.kt                      |   Expert   |  Number Theory   |
-|  16  |                          Laser Beam                          |                         LaserBeam.kt                         |   Expert   |  Number Theory   |
-|  17  |                        Fun With 1010                         |                        FunWith1010.kt                        |   Expert   |  Number Theory   |
+|  16  | [Laser Beam](https://www.hackerrank.com/challenges/laser-beam/problem?isFullScreen=true) |                         LaserBeam.kt                         |   Expert   |  Number Theory   |
+|  17  | [Fun With 1010](https://www.hackerrank.com/challenges/fun-with-1010/) |                        FunWith1010.kt                        |   Expert   |  Number Theory   |
 |      |                                                              |                                                              |            |                  |
 |      |                                                              |                                                              |            |                  |
 
