@@ -93,17 +93,22 @@ Coding environment:
 
 # MATHEMATICS
 
-|  No  |                          Challenge                           |                           Solution                           | Difficulty |   Subdomain   |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :-----------: |
-|  1   | [Find the Point](https://www.hackerrank.com/challenges/find-point/) | [FindThePoint.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FindThePoint.kt) |    Easy    | Fundamentals  |
-|  2   | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [MaximumDraws.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MaximumDraws.kt) |    Easy    | Fundamentals  |
-|  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    | Fundamentals  |
-|  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [MinimumHeightTriangle.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinimumHeightTriangle.kt) |    Easy    | Fundamentals  |
-|  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) | [SherlockAndPermutations.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/SherlockAndPermutations.kt) |    Hard    | Fundamentals  |
-|  6   | [GCD Product](https://www.hackerrank.com/challenges/gcd-product/) | [GcdProduct.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/GcdProduct.kt) |    Hard    | Number Theory |
-|  7   | [GCD Mocktail](https://www.hackerrank.com/challenges/gcd-mocktail/problem) | [GcdMoctail.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/GcdMocktail.kt) |  Advanced  | Number Theory |
-|  8   | [String Modification](https://www.hackerrank.com/challenges/string-modification/problem) | [StringModification.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/StringModification.kt) |   Expert   | Combinatorics |
-|  9   | [Insane DFS](https://www.hackerrank.com/challenges/insane-dfs/problem) | [InsaneDFS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/InsaneDFS.kt) |   Expert   | Combinatorics |
+|  No  |                          Challenge                           |                           Solution                           | Difficulty |    Subdomain     |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :--------------: |
+|  1   | [Find the Point](https://www.hackerrank.com/challenges/find-point/) | [FindThePoint.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FindThePoint.kt) |    Easy    |   Fundamentals   |
+|  2   | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [MaximumDraws.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MaximumDraws.kt) |    Easy    |   Fundamentals   |
+|  3   | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Handshake.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Handshake.kt) |    Easy    |   Fundamentals   |
+|  4   | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [MinimumHeightTriangle.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinimumHeightTriangle.kt) |    Easy    |   Fundamentals   |
+|  5   | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/) | [SherlockAndPermutations.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/SherlockAndPermutations.kt) |    Hard    |   Fundamentals   |
+|  6   | [GCD Product](https://www.hackerrank.com/challenges/gcd-product/) | [GcdProduct.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/GcdProduct.kt) |    Hard    |  Number Theory   |
+|  7   | [GCD Mocktail](https://www.hackerrank.com/challenges/gcd-mocktail/problem) | [GcdMoctail.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/GcdMocktail.kt) |  Advanced  |  Number Theory   |
+|  8   | [String Modification](https://www.hackerrank.com/challenges/string-modification/problem) | [StringModification.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/StringModification.kt) |   Expert   |  Combinatorics   |
+|  9   | [Insane DFS](https://www.hackerrank.com/challenges/insane-dfs/problem) | [InsaneDFS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/InsaneDFS.kt) |   Expert   |  Combinatorics   |
+|  10  | [Isosceles Triangles](https://www.hackerrank.com/challenges/isosceles-triangles/problem) |                    IsoscelesTriangles.kt                     |    Hard    |     Geometry     |
+|  11  | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance/problem) |                      HammingDistance.kt                      |   Expert   | Bit Manipulation |
+|      |                                                              |                                                              |            |                  |
+|      |                                                              |                                                              |            |                  |
+|      |                                                              |                                                              |            |                  |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
