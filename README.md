@@ -112,7 +112,7 @@ Coding environment:
 |  11  | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance/problem) |                      HammingDistance.kt                      |   Expert   | Bit Manipulation |
 |  12  | [The Black Box](https://www.hackerrank.com/challenges/black-box-1/problem?isFullScreen=true) |                        TheBlackBox.kt                        |  Advanced  |     Algebra      |
 |  13  | [nCr](https://www.hackerrank.com/challenges/ncr/problem?isFullScreen=true) |                            nCr.kt                            |   Expert   |  Number Theory   |
-|      |                                                              |                                                              |            |                  |
+|  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) |                        Teleporters.kt                        |   Expert   |   Cobinatorics   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
