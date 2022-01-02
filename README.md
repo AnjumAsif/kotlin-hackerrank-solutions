@@ -113,6 +113,8 @@ Coding environment:
 |  12  | [The Black Box](https://www.hackerrank.com/challenges/black-box-1/problem?isFullScreen=true) | [TheBlackBox.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/TheBlackBox.kt) |  Advanced  |     Algebra      |
 |  13  | [nCr](https://www.hackerrank.com/challenges/ncr/problem?isFullScreen=true) | [nCr.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/nCr.kt) |   Expert   |  Number Theory   |
 |  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) | [Teleporters.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Teleporters.kt) |   Expert   |   Cobinatorics   |
+|  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) |                      MinionOfTheYear.kt                      |   Expert   |  Number Theory   |
+|      |                                                              |                                                              |            |                  |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
