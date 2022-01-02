@@ -110,8 +110,8 @@ Coding environment:
 |  9   | [Insane DFS](https://www.hackerrank.com/challenges/insane-dfs/problem) | [InsaneDFS.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/InsaneDFS.kt) |   Expert   |  Combinatorics   |
 |  10  | [Isosceles Triangles](https://www.hackerrank.com/challenges/isosceles-triangles/problem) |                    IsoscelesTriangles.kt                     |    Hard    |     Geometry     |
 |  11  | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance/problem) |                      HammingDistance.kt                      |   Expert   | Bit Manipulation |
-|      |                                                              |                                                              |            |                  |
-|      |                                                              |                                                              |            |                  |
+|  12  | [The Black Box](https://www.hackerrank.com/challenges/black-box-1/problem?isFullScreen=true) |                        TheBlackBox.kt                        |  Advanced  |                  |
+|      |                                                              |                                                              |            |     Algebra      |
 |      |                                                              |                                                              |            |                  |
 
 # MY TOP KOTLIN LEARNING RESOURCES
