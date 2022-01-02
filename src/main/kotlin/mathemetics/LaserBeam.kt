@@ -130,7 +130,7 @@ class LaserBeam {
         }
         return inBuf[ptrBuf++].toInt()
     }
-    
+
     private fun ni(): Int {
         var num = 0
         var b: Int

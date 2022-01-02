@@ -118,6 +118,9 @@ Coding environment:
 |  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) | [Teleporters.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Teleporters.kt) |   Expert   |   Cobinatorics   |
 |  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) |                      MinionOfTheYear.kt                      |   Expert   |  Number Theory   |
 |  16  |                          Laser Beam                          |                         LaserBeam.kt                         |   Expert   |  Number Theory   |
+|  17  |                        Fun With 1010                         |                        FunWith1010.kt                        |   Expert   |  Number Theory   |
+|      |                                                              |                                                              |            |                  |
+|      |                                                              |                                                              |            |                  |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
