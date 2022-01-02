@@ -81,22 +81,22 @@ class Solution {
         return ret
     }
 
-    fun solve(`in`: Input, out: PrintWriter) {
-        val n = `in`.nextInt()
-        val q = `in`.nextInt()
+    fun solve(input: Input, out: PrintWriter) {
+        val n = input.nextInt()
+        val q = input.nextInt()
         var even: Node? = null
         var odd: Node? = null
         for (i in 0 until n) {
             if (i % 2 == 0) {
-                even = merge(even, Node(`in`.nextLong()))
+                even = merge(even, Node(input.nextLong()))
             } else {
-                odd = merge(odd, Node(`in`.nextLong()))
+                odd = merge(odd, Node(input.nextLong()))
             }
         }
         for (it in 0 until q) {
-            val type = `in`.nextInt()
-            val l = `in`.nextInt() - 1
-            val r = `in`.nextInt()
+            val type = input.nextInt()
+            val l = input.nextInt() - 1
+            val r = input.nextInt()
             val splitEven = splitAt(even, (l + 1) / 2, (r + 1) / 2)
             val splitOdd = splitAt(odd, l / 2, r / 2)
             if (type == 1) {

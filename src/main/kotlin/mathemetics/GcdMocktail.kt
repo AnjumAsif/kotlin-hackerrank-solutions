@@ -110,8 +110,8 @@ fun eval(c: LongArray?, a: Int): Long {
  */
 
 fun main(args: Array<String>) {
-    val `in` = Scanner(System.`in`)
-    val t = `in`.nextInt()
+    val scanner = Scanner(System.`in`)
+    val t = scanner.nextInt()
     val n = IntArray(t)
     val s = IntArray(t) // s[i] = floor(sqrt(N[i])) >= 1
     val u = IntArray(t) // u[i] = floor(N[i] / (s[i] + 1)) >= 0
@@ -124,16 +124,16 @@ fun main(args: Array<String>) {
     var j: Int
     i = 0
     while (i < t) {
-        n[i] = `in`.nextInt()
+        n[i] = scanner.nextInt()
         s[i] = floor(sqrt(n[i].toDouble())).toInt()
         u[i] = n[i] / (s[i] + 1)
         maxU = maxU.coerceAtLeast(u[i])
-        d[i] = `in`.nextInt()
-        q = `in`.nextInt()
+        d[i] = scanner.nextInt()
+        q = scanner.nextInt()
         intArrays[i] = IntArray(q)
         j = 0
         while (j < q) {
-            intArrays[i]!![j] = `in`.nextInt()
+            intArrays[i]!![j] = scanner.nextInt()
             maxL = maxL.coerceAtLeast(intArrays[i]!![j])
             j++
         }
