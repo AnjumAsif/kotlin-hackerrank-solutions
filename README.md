@@ -62,10 +62,8 @@ Coding environment:
 |  11  | [Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem?isFullScreen=true) | [RepetitiveKSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/RepetitiveKSum.kt) |  Advanced  |      Recursion      |
 |  12  |                       Dortmund Dilemma                       | [DortmundDilemma.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/DortmundDilemma.kt) |  Advanced  | Dynamic Programming |
 |  13  | [Seperate The Chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate/problem) | [SeperateTheChocolate.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SeparateTheChocolate.kt) |   Expert   | Dynamic Programming |
-|  14  | [Robot](https://www.hackerrank.com/challenges/robot/problem) |                           Robot.kt                           |  Advanced  | Dynamic Programming |
-|  15  | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes/problem) |                    CircularPalindromes.kt                    |  Advanced  |       Strings       |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
+|  14  | [Robot](https://www.hackerrank.com/challenges/robot/problem) | [Robot.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/Robot.kt) |  Advanced  | Dynamic Programming |
+|  15  | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes/problem) | [CircularPalindromes.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CircularPalindromes.kt) |  Advanced  |       Strings       |
 
 
 
@@ -89,14 +87,6 @@ Coding environment:
 |  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) | [FindThePermutation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/FineThePermutation.kt) |  Advanced  | Advanced  |
 |  15  | [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree/) | [ColoringTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/tree/master/src/main/kotlin/data_structures#:~:text=4%20days%20ago-,ColoringTree.kt,-Solve%20Colouring%20Tree) |  Advanced  | Advanced  |
 |  16  | [Swap and Sum](https://www.hackerrank.com/challenges/swaps-and-sum/) | [SwapAndSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/SwapAndSum.kt) |  Advanced  | Advanced  |
-|  17  |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
 
 # MATHEMATICS
 
@@ -116,11 +106,9 @@ Coding environment:
 |  12  | [The Black Box](https://www.hackerrank.com/challenges/black-box-1/problem?isFullScreen=true) | [TheBlackBox.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/TheBlackBox.kt) |  Advanced  |     Algebra      |
 |  13  | [nCr](https://www.hackerrank.com/challenges/ncr/problem?isFullScreen=true) | [nCr.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/nCr.kt) |   Expert   |  Number Theory   |
 |  14  | [Teleporters](https://www.hackerrank.com/challenges/teleporters/problem?isFullScreen=true) | [Teleporters.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/Teleporters.kt) |   Expert   |   Cobinatorics   |
-|  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) |                      MinionOfTheYear.kt                      |   Expert   |  Number Theory   |
-|  16  | [Laser Beam](https://www.hackerrank.com/challenges/laser-beam/problem?isFullScreen=true) |                         LaserBeam.kt                         |   Expert   |  Number Theory   |
-|  17  | [Fun With 1010](https://www.hackerrank.com/challenges/fun-with-1010/) |                        FunWith1010.kt                        |   Expert   |  Number Theory   |
-|      |                                                              |                                                              |            |                  |
-|      |                                                              |                                                              |            |                  |
+|  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) | [MinionOfTheYear.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinionOfTheYear.kt) |   Expert   |  Number Theory   |
+|  16  | [Laser Beam](https://www.hackerrank.com/challenges/laser-beam/problem?isFullScreen=true) | [LaserBeam.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/LaserBeam.kt) |   Expert   |  Number Theory   |
+|  17  | [Fun With 1010](https://www.hackerrank.com/challenges/fun-with-1010/) | [FunWith1010.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FunWith1010.kt) |   Expert   |  Number Theory   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
