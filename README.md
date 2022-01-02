@@ -109,6 +109,7 @@ Coding environment:
 |  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) | [MinionOfTheYear.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinionOfTheYear.kt) |   Expert   |  Number Theory   |
 |  16  | [Laser Beam](https://www.hackerrank.com/challenges/laser-beam/problem?isFullScreen=true) | [LaserBeam.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/LaserBeam.kt) |   Expert   |  Number Theory   |
 |  17  | [Fun With 1010](https://www.hackerrank.com/challenges/fun-with-1010/) | [FunWith1010.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FunWith1010.kt) |   Expert   |  Number Theory   |
+|  18  | [Strongly Connected Digraphs](https://www.hackerrank.com/challenges/strongly-connected-digraphs/) |                 StronglyConnectedDigraphs.kt                 |    Hard    |  Combinatorics   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
