@@ -59,6 +59,10 @@ Coding environment:
 |  8   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem) | [PseudoIsomorphicSubstrings.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/commit/f89ec46ee5124c607f74c8b57176e6e6121807e5) |   Expert   |   Strings    |
 |  9   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) | [LetterIslands.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LetterIslands.kt) |   Expert   |   Strings    |
 |  10  | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game/problem) | [TwoStringsGame.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/TwoStringsGame.kt) |   Expert   |   Strings    |
+|  11  | [Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem?isFullScreen=true) |                      RepetitiveKSum.kt                       |  Advanced  |  Recursion   |
+|      |                                                              |                                                              |            |              |
+|      |                                                              |                                                              |            |              |
+|      |                                                              |                                                              |            |              |
 
 
 
