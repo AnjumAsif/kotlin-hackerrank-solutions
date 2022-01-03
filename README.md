@@ -64,7 +64,7 @@ Coding environment:
 |  13  | [Seperate The Chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate/problem) | [SeperateTheChocolate.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/SeparateTheChocolate.kt) |   Expert   | Dynamic Programming |
 |  14  | [Robot](https://www.hackerrank.com/challenges/robot/problem) | [Robot.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/Robot.kt) |  Advanced  | Dynamic Programming |
 |  15  | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes/problem) | [CircularPalindromes.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CircularPalindromes.kt) |  Advanced  |       Strings       |
-|  16  | [Vim War](https://www.hackerrank.com/challenges/vim-war/problem?isFullScreen=true) |                          VimWar.kt                           |  Advanced  | Dynamic Programming |
+|  16  | [Vim War](https://www.hackerrank.com/challenges/vim-war/problem?isFullScreen=true) | [VimWar.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/VimWar.kt) |  Advanced  | Dynamic Programming |
 
 
 
@@ -110,7 +110,7 @@ Coding environment:
 |  15  | [Minion Of The Year](https://www.hackerrank.com/challenges/minion-of-the-year/problem) | [MinionOfTheYear.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/MinionOfTheYear.kt) |   Expert   |  Number Theory   |
 |  16  | [Laser Beam](https://www.hackerrank.com/challenges/laser-beam/problem?isFullScreen=true) | [LaserBeam.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/LaserBeam.kt) |   Expert   |  Number Theory   |
 |  17  | [Fun With 1010](https://www.hackerrank.com/challenges/fun-with-1010/) | [FunWith1010.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FunWith1010.kt) |   Expert   |  Number Theory   |
-|  18  | [Strongly Connected Digraphs](https://www.hackerrank.com/challenges/strongly-connected-digraphs/) |                 StronglyConnectedDigraphs.kt                 |    Hard    |  Combinatorics   |
+|  18  | [Strongly Connected Digraphs](https://www.hackerrank.com/challenges/strongly-connected-digraphs/) | [StronglyConnectedDigraphs.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/StronglyConnectedDigraphs.kt) |    Hard    |  Combinatorics   |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
