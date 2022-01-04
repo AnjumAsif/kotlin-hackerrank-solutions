@@ -65,6 +65,14 @@ Coding environment:
 |  14  | [Robot](https://www.hackerrank.com/challenges/robot/problem) | [Robot.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/Robot.kt) |  Advanced  | Dynamic Programming |
 |  15  | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes/problem) | [CircularPalindromes.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CircularPalindromes.kt) |  Advanced  |       Strings       |
 |  16  | [Vim War](https://www.hackerrank.com/challenges/vim-war/problem?isFullScreen=true) | [VimWar.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/VimWar.kt) |  Advanced  | Dynamic Programming |
+|  17  | [String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem) |                     StringSimilarity.kt                      |    Hard    |       Strings       |
+|  18  |                       Quadrant Queries                       |                     QquadrantQueries.kt                      |    Hard    |    Graph Theory     |
+|      |                                                              |                                                              |            |                     |
+|      |                                                              |                                                              |            |                     |
+|      |                                                              |                                                              |            |                     |
+|      |                                                              |                                                              |            |                     |
+|      |                                                              |                                                              |            |                     |
+|      |                                                              |                                                              |            |                     |
 
 
 
@@ -88,6 +96,14 @@ Coding environment:
 |  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) | [FindThePermutation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/FineThePermutation.kt) |  Advanced  | Advanced  |
 |  15  | [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree/) | [ColoringTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/tree/master/src/main/kotlin/data_structures#:~:text=4%20days%20ago-,ColoringTree.kt,-Solve%20Colouring%20Tree) |  Advanced  | Advanced  |
 |  16  | [Swap and Sum](https://www.hackerrank.com/challenges/swaps-and-sum/) | [SwapAndSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/SwapAndSum.kt) |  Advanced  | Advanced  |
+|  17  | https://www.hackerrank.com/challenges/taxicab-drivers-problem/problem |                                                              |  Advanced  | Advanced  |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
+|      |                                                              |                                                              |            |           |
 
 # MATHEMATICS
 
