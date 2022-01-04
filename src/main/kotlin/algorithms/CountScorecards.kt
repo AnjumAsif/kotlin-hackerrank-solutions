@@ -2,7 +2,7 @@ package algorithms
 
 import java.util.*
 
-class CountScoreBoards {
+class CountScorecards {
 
 /*
  * Complete the 'countScorecards' function below.
@@ -26,7 +26,7 @@ class CountScoreBoards {
     var memoCnt = 0
     var dp = Array(maxN) { Array(maxN) { IntArray(maxN * maxN / 2) } }
 
-    fun recC(k: Int, last: Int, sum: Int): Int {
+    fun reCalculate(k: Int, last: Int, sum: Int): Int {
         if (k == m) {
             return if (pScores + sum == ts[N - 1]) 1 else 0
         }
@@ -34,21 +34,21 @@ class CountScoreBoards {
             return 0
         }
         if (memo[k][last][sum] == memoCnt) {
-            return dp.get(k).get(last).get(sum)
+            return dp[k][last][sum]
         }
         memo[k][last][sum] = memoCnt
-        var result = recC(k, last + 1, sum)
+        var result = reCalculate(k, last + 1, sum)
         var sumR = sum
         var i = 1
         while (k + i <= m) {
             sumR += last
-            if (sumR + minDiff.get(k + i) < ts[k + i - 1]) {
+            if (sumR + minDiff[k + i] < ts[k + i - 1]) {
                 break
             }
-            result = ((result + longArrays.get(m - k).get(i) * recC(k + i, last + 1, sumR)) % MOD).toInt()
+            result = ((result + longArrays[m - k][i] * reCalculate(k + i, last + 1, sumR)) % MOD).toInt()
             ++i
         }
-        dp.get(k).get(last)[sum] = result
+        dp[k][last][sum] = result
         return result
     }
 
@@ -83,11 +83,11 @@ class CountScoreBoards {
             minDiff[i] = 0
             for (j in 0 until number) {
                 sum += a[j] - (i + j)
-                minDiff[i] = Math.min(minDiff[i], sum)
+                minDiff[i] = minDiff[i].coerceAtMost(sum)
             }
         }
         memoCnt++
-        return recC(0, 0, 0)
+        return reCalculate(0, 0, 0)
     }
 
     fun build() {
