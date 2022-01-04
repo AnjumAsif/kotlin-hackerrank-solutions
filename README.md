@@ -68,11 +68,9 @@ Coding environment:
 |  17  | [String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem) | [StringSimilarity.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/StringSimilarity.kt) |    Hard    |       Strings       |
 |  18  | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries/problem) | [QuadrantQueries.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/QuadrantQueries.kt) |    Hard    |    Graph Theory     |
 |  17  | [Going To Office](https://www.hackerrank.com/challenges/going-office/problem) | [GoingToOffice.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/GoingToOffice.kt) |   Expert   |    Graph Theory     |
-|      | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) | [LuckyNumbers.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LuckyNumbers.kt) |   Expert   | Dynamic Programming |
-|      | [Ones And Twos](https://www.hackerrank.com/challenges/ones-and-twos/problem) |                        OnesAndTwos.kt                        |    Hard    | Dynamic Programming |
-|      | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) |                      CountScorecards.kt                      |   Expert   | Dynamic Programming |
-|      |                          Best Spot                           |                         BestSpot.kt                          |  Advanced  | Dynamic Programming |
-|      |                                                              |                                                              |            |                     |
+|  18  | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) | [LuckyNumbers.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LuckyNumbers.kt) |   Expert   | Dynamic Programming |
+|  19  | [Ones And Twos](https://www.hackerrank.com/challenges/ones-and-twos/problem) | [OnesAndTwos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/OnesAndTwos.kt) |    Hard    | Dynamic Programming |
+|  20  | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) | [CountScorecards.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CountScorecards.kt) |   Expert   | Dynamic Programming |
 
 
 
@@ -96,14 +94,6 @@ Coding environment:
 |  14  | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation) | [FindThePermutation.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/FineThePermutation.kt) |  Advanced  | Advanced  |
 |  15  | [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree/) | [ColoringTree.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/tree/master/src/main/kotlin/data_structures#:~:text=4%20days%20ago-,ColoringTree.kt,-Solve%20Colouring%20Tree) |  Advanced  | Advanced  |
 |  16  | [Swap and Sum](https://www.hackerrank.com/challenges/swaps-and-sum/) | [SwapAndSum.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/data_structures/SwapAndSum.kt) |  Advanced  | Advanced  |
-|  17  |                                                              |                                                              |  Advanced  | Advanced  |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
-|      |                                                              |                                                              |            |           |
 
 # MATHEMATICS
 
@@ -128,11 +118,6 @@ Coding environment:
 |  17  | [Fun With 1010](https://www.hackerrank.com/challenges/fun-with-1010/) | [FunWith1010.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/FunWith1010.kt) |   Expert   |  Number Theory   |
 |  18  | [Strongly Connected Digraphs](https://www.hackerrank.com/challenges/strongly-connected-digraphs/) | [StronglyConnectedDigraphs.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/StronglyConnectedDigraphs.kt) |    Hard    |  Combinatorics   |
 |  17  | [Count Palindromes](https://www.hackerrank.com/challenges/count-palindromes/problem) | [CountPalindromes.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/mathemetics/CountPalindromes.kt) |    Hard    |  Combinatorics   |
-|      |                                                              |                                                              |            |                  |
-|      |                                                              |                                                              |            |                  |
-|      |                                                              |                                                              |            |                  |
-|      |                                                              |                                                              |            |                  |
-|      |                                                              |                                                              |            |                  |
 
 # MY TOP KOTLIN LEARNING RESOURCES
 
