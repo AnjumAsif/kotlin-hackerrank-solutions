@@ -68,7 +68,7 @@ Coding environment:
 |  17  | [String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem) | [StringSimilarity.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/StringSimilarity.kt) |    Hard    |       Strings       |
 |  18  | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries/problem) | [QuadrantQueries.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/QuadrantQueries.kt) |    Hard    |    Graph Theory     |
 |  17  | [Going To Office](https://www.hackerrank.com/challenges/going-office/problem) |                       GoingToOffice.kt                       |   Expert   |    Graph Theory     |
-|      |                        Lucky Numbers                         |                       LuckyNumbers.kt                        |   Expert   | Dynamic Programming |
+|      | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) |                       LuckyNumbers.kt                        |   Expert   | Dynamic Programming |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
