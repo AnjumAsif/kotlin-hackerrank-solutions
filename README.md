@@ -69,7 +69,7 @@ Coding environment:
 |  18  | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries/problem) | [QuadrantQueries.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/QuadrantQueries.kt) |    Hard    |    Graph Theory     |
 |  17  | [Going To Office](https://www.hackerrank.com/challenges/going-office/problem) | [GoingToOffice.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/GoingToOffice.kt) |   Expert   |    Graph Theory     |
 |      | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) | [LuckyNumbers.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LuckyNumbers.kt) |   Expert   | Dynamic Programming |
-|      |                                                              |                                                              |            |                     |
+|      |                        Ones And Twos                         |                                                              |    Hard    | Dynamic Programming |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
