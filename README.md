@@ -71,7 +71,7 @@ Coding environment:
 |      | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) | [LuckyNumbers.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LuckyNumbers.kt) |   Expert   | Dynamic Programming |
 |      | [Ones And Twos](https://www.hackerrank.com/challenges/ones-and-twos/problem) |                        OnesAndTwos.kt                        |    Hard    | Dynamic Programming |
 |      | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) |                      CountScorecards.kt                      |   Expert   | Dynamic Programming |
-|      |                                                              |                                                              |            |                     |
+|      |                          Best Spot                           |                         BestSpot.kt                          |  Advanced  | Dynamic Programming |
 |      |                                                              |                                                              |            |                     |
 
 
