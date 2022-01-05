@@ -5,16 +5,15 @@ package one_week_reparation_kit.day_02
  *
  * The function is expected to return an INTEGER.
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
+
+ * Explanation: We need to calculate the sums across the two diagonals of a square matrix.
+ * First diagonal of the matrix, row index = column index.
+ * The second diagonal is at column  for each row .
+ * Loop through the rows, summing both values as increments.
  */
 
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
-    // Write your code here
-    var leftToRightDiagonal = 0
-    var rightToLeftDiagonal = 0
-
-    for (x in 0 until arr.size) {
-        rightToLeftDiagonal += arr[x][arr.size - 1 - x]
-        leftToRightDiagonal += arr[x][x]
-    }
-    return Math.abs(leftToRightDiagonal - rightToLeftDiagonal)
+    val leftDiagonal = arr.mapIndexed { index, row -> row[index] }.sum()
+    val rightDiagonal = arr.mapIndexed { index, row -> row[row.size - 1 - index] }.sum()
+    return Math.abs(leftDiagonal - rightDiagonal)
 }
