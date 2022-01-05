@@ -75,7 +75,7 @@ Coding environment:
 |  24  |                          Plus Minus                          |                         PlusMinus.kt                         |    Easy    |       Warm Up       |
 |  25  |                          Staircase                           |                         Staircase.kt                         |    Easy    |       Warm Up       |
 |  26  |                         Mini-Max Sum                         |                        MiniMaxSum.kt                         |    Easy    |       Warm Up       |
-|  27  |                                                              |                                                              |            |                     |
+|  27  |                    Birthday Cake Candles                     |                    BirthdayCakeCandles.kt                    |    Easy    |       Warm Up       |
 |  28  |                                                              |                                                              |            |                     |
 |  29  |                                                              |                                                              |            |                     |
 |  30  |                                                              |                                                              |            |                     |
