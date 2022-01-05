@@ -72,7 +72,7 @@ Coding environment:
 |  21  | [Ones And Twos](https://www.hackerrank.com/challenges/ones-and-twos/problem) | [OnesAndTwos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/OnesAndTwos.kt) |    Hard    | Dynamic Programming |
 |  22  | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) | [CountScorecards.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CountScorecards.kt) |   Expert   | Dynamic Programming |
 |  23  |                     Diagonal Difference                      |                    DiagonalDifference.kt                     |    Easy    |       Warm Up       |
-|  24  |                                                              |                                                              |            |                     |
+|  24  |                          Plus Minus                          |                         PlusMinus.kt                         |    Easy    |       Warm Up       |
 |  25  |                                                              |                                                              |            |                     |
 |  26  |                                                              |                                                              |            |                     |
 |  27  |                                                              |                                                              |            |                     |
