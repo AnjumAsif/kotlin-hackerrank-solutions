@@ -73,7 +73,7 @@ Coding environment:
 |  22  | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) | [CountScorecards.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CountScorecards.kt) |   Expert   | Dynamic Programming |
 |  23  |                     Diagonal Difference                      |                    DiagonalDifference.kt                     |    Easy    |       Warm Up       |
 |  24  |                          Plus Minus                          |                         PlusMinus.kt                         |    Easy    |       Warm Up       |
-|  25  |                                                              |                                                              |            |                     |
+|  25  |                          Staircase                           |                         Staircase.kt                         |    Easy    |       Warm Up       |
 |  26  |                                                              |                                                              |            |                     |
 |  27  |                                                              |                                                              |            |                     |
 |  28  |                                                              |                                                              |            |                     |
