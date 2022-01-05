@@ -74,7 +74,7 @@ Coding environment:
 |  23  |                     Diagonal Difference                      |                    DiagonalDifference.kt                     |    Easy    |       Warm Up       |
 |  24  |                          Plus Minus                          |                         PlusMinus.kt                         |    Easy    |       Warm Up       |
 |  25  |                          Staircase                           |                         Staircase.kt                         |    Easy    |       Warm Up       |
-|  26  |                                                              |                                                              |            |                     |
+|  26  |                         Mini-Max Sum                         |                        MiniMaxSum.kt                         |    Easy    |       Warm Up       |
 |  27  |                                                              |                                                              |            |                     |
 |  28  |                                                              |                                                              |            |                     |
 |  29  |                                                              |                                                              |            |                     |
