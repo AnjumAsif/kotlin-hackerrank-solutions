@@ -67,10 +67,21 @@ Coding environment:
 |  16  | [Vim War](https://www.hackerrank.com/challenges/vim-war/problem?isFullScreen=true) | [VimWar.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/VimWar.kt) |  Advanced  | Dynamic Programming |
 |  17  | [String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem) | [StringSimilarity.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/StringSimilarity.kt) |    Hard    |       Strings       |
 |  18  | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries/problem) | [QuadrantQueries.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/QuadrantQueries.kt) |    Hard    |    Graph Theory     |
-|  17  | [Going To Office](https://www.hackerrank.com/challenges/going-office/problem) | [GoingToOffice.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/GoingToOffice.kt) |   Expert   |    Graph Theory     |
-|  18  | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) | [LuckyNumbers.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LuckyNumbers.kt) |   Expert   | Dynamic Programming |
-|  19  | [Ones And Twos](https://www.hackerrank.com/challenges/ones-and-twos/problem) | [OnesAndTwos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/OnesAndTwos.kt) |    Hard    | Dynamic Programming |
-|  20  | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) | [CountScorecards.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CountScorecards.kt) |   Expert   | Dynamic Programming |
+|  19  | [Going To Office](https://www.hackerrank.com/challenges/going-office/problem) | [GoingToOffice.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/GoingToOffice.kt) |   Expert   |    Graph Theory     |
+|  20  | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers/problem) | [LuckyNumbers.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/LuckyNumbers.kt) |   Expert   | Dynamic Programming |
+|  21  | [Ones And Twos](https://www.hackerrank.com/challenges/ones-and-twos/problem) | [OnesAndTwos.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/OnesAndTwos.kt) |    Hard    | Dynamic Programming |
+|  22  | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards/problem) | [CountScorecards.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/CountScorecards.kt) |   Expert   | Dynamic Programming |
+|  23  |                     Diagonal Difference                      |                    DiagonalDifference.kt                     |    Easy    |       Warm Up       |
+|  24  |                                                              |                                                              |            |                     |
+|  25  |                                                              |                                                              |            |                     |
+|  26  |                                                              |                                                              |            |                     |
+|  27  |                                                              |                                                              |            |                     |
+|  28  |                                                              |                                                              |            |                     |
+|  29  |                                                              |                                                              |            |                     |
+|  30  |                                                              |                                                              |            |                     |
+|  31  |                                                              |                                                              |            |                     |
+|  32  |                                                              |                                                              |            |                     |
+|  33  |                                                              |                                                              |            |                     |
 
 
 
