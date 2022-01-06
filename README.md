@@ -74,7 +74,7 @@ Coding environment:
 |  25  | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=false) | [Staircase.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/Staircase.kt) |    Easy    |       Warm Up       |
 |  27  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false) | [BirthdayCakeCandles.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/BirthdayCakeCandles.kt) |    Easy    |       Warm Up       |
 |  28  | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=false) | [GradingStudents.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/GradingStudents.kt) |    Easy    |       Warm Up       |
-|      |                                                              |                                                              |            |                     |
+|  29  | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) |                   Climbing The Leaderboard                   |   Medium   |   Implementation    |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
