@@ -75,8 +75,8 @@ Coding environment:
 |  27  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false) | [BirthdayCakeCandles.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/BirthdayCakeCandles.kt) |    Easy    |       Warm Up       |
 |  28  | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=false) | [GradingStudents.kt](https://github.com/manhnvacrux/kotlin-hackerrank-solutions/blob/master/src/main/kotlin/algorithms/GradingStudents.kt) |    Easy    |       Warm Up       |
 |  29  | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) |                   Climbing The Leaderboard                   |   Medium   |   Implementation    |
-|      |                                                              |                                                              |            |                     |
-|      |                                                              |                                                              |            |                     |
+|  30  | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=false) |                    NonDivisibleSubset.kt                     |   Medium   |   Implementation    |
+|      |                     Ema's Supercomputer                      |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
 |      |                                                              |                                                              |            |                     |
 
